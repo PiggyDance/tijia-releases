@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20260908-bulk06-r1",
+  "items": [
+    {
+      "id": "reading-20260908-bulk06-1-r1",
+      "createdAt": 1788880997328,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "年轮之间的接力",
+        "count": 1
+      },
+      "content": {
+        "title": "年轮之间的接力",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "一根古木的年轮可以排出先后，却未必能独自标明公历年份。树木生长受到环境影响，同一区域的树木可能留下相似的宽窄变化。研究者把不同年代木材的年轮序列相互比对，寻找重叠的特征，再把较短的片段接成较长的序列。如果序列的一端能够与已知年代的树木相接，较早的片段便有机会获得日历上的位置。美国西南地区早期的树轮研究就经历过这样的过程：研究者先分别建立近代和史前序列，后来找到能够连接两者的木材，才把原先悬空的相对次序纳入连续的年代框架。可供分析的木材也有条件限制，不同树种和保存状况会影响匹配。一件木构件在遗址中保存下来，与它能够提供可定年的年轮，并不是同一回事。年轮的价值既来自单棵树的记录，也来自许多记录之间能够被检验的联系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "这段文字主要说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "美国西南地区曾发现连接史前与近代的木材"
+              },
+              {
+                "id": "B",
+                "text": "树轮定年依靠可匹配序列及其与已知年代的连接"
+              },
+              {
+                "id": "C",
+                "text": "树木年轮能够记录区域环境的变化"
+              },
+              {
+                "id": "D",
+                "text": "古木保存状况影响研究材料的选择"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "全文围绕相对序列如何获得日历位置及其条件展开。\n\n材料来源（2026-09-08读取）：NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "许多记录之间能够被检验的联系"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "历史发现是机制的例证。"
+                },
+                "B": {
+                  "text": "全文围绕相对序列如何获得日历位置及其条件展开。"
+                },
+                "C": {
+                  "text": "解释可匹配的基础，未覆盖核心过程。"
+                },
+                "D": {
+                  "text": "属于材料适用条件，未涵盖定年机制。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk06-2-r1",
+      "createdAt": 1788880997329,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "挡住恒星之后",
+        "count": 1
+      },
+      "content": {
+        "title": "挡住恒星之后",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "直接拍摄系外行星，困难之一在于行星的光往往被邻近恒星的强光淹没。减少进入观测系统的星光，可以为暗弱目标显现创造条件。日冕仪把抑制星光的装置安排在望远镜内部；另一种被提出的方案则让遮星板位于望远镜之外，在两者之间保持适当的位置关系。它们试图解决相近的观测困难，却对应不同的装置布局。即便星光得到抑制，光学系统自身造成的误差仍会影响结果，形状可调的反射镜等技术因此也有用武之地。目前直接成像发现的系外行星多为仍然年轻、较热的大型行星，这与目标自身亮度及观测能力有关。能够在图像上将目标与恒星区分开，是进一步研究它的重要前提；从这一步走到识别更暗弱、更接近恒星的目标，还需要遮光、光学控制和探测能力的共同改进。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "根据文段，日冕仪与所述遮星板方案的区别在于：",
+            "options": [
+              {
+                "id": "A",
+                "text": "是否以减少恒星光的干扰为目的"
+              },
+              {
+                "id": "B",
+                "text": "抑制星光的装置相对于望远镜的位置"
+              },
+              {
+                "id": "C",
+                "text": "一个研究恒星，另一个才研究行星"
+              },
+              {
+                "id": "D",
+                "text": "是否需要使行星先遮挡主恒星"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "文段明确区分内部装置与外部遮星板。\n\n材料来源（2026-09-08读取）：NASA《How We Find and Characterize Exoplanets》 https://science.nasa.gov/exoplanets/how-we-find-and-characterize/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "把抑制星光的装置安排在望远镜内部"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "二者均以减少恒星光干扰为目的。"
+                },
+                "B": {
+                  "text": "文段明确区分内部装置与外部遮星板。"
+                },
+                "C": {
+                  "text": "二者都用于解决行星观测问题。"
+                },
+                "D": {
+                  "text": "把直接成像与凌日混淆。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NASA《How We Find and Characterize Exoplanets》 https://science.nasa.gov/exoplanets/how-we-find-and-characterize/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk06-3-r1",
+      "createdAt": 1788880997330,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "雨水桶连接的环节",
+        "count": 1
+      },
+      "content": {
+        "title": "雨水桶连接的环节",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "城市建筑屋顶汇集的雨水，常经落水管直接进入排水系统。改变管道末端的连接，可以把这部分水先送入雨水桶或蓄水池，也可以导向能够接纳水的透水区域。储存下来的水可以用于灌溉等非饮用用途，于是一次降雨既成为需要处理的径流，也成为随后可以利用的水源。雨水收集与雨水花园的工作环节并不完全相同：前者着重于把水留存以供使用，后者通常借助下凹空间、植物和土壤使来水暂存并经过过滤。两种做法都可能减少直接进入管网的水量，但容器储水并不自动等于补给地下水，水最终向何处去仍取决于后续安排。从屋顶、落水管到容器或地面，原本连续的排水路线被重新组织；一处连接方式的调整，能够让建筑与场地中的储存、使用和入渗环节建立不同的联系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "意图判断",
+            "stem": "这段文字意在说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "调整屋顶来水的连接方式可以重新组织雨水的处理与利用"
+              },
+              {
+                "id": "B",
+                "text": "雨水桶的主要功能是在降雨时向地下水直接补水"
+              },
+              {
+                "id": "C",
+                "text": "雨水花园的过滤过程决定了所有屋顶收集水的用途"
+              },
+              {
+                "id": "D",
+                "text": "不同雨水设施应以采用相同的水流路线为建设目标"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "全文从改接落水管展开，说明多种后续路径与作用。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "原本连续的排水路线被重新组织"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "全文从改接落水管展开，说明多种后续路径与作用。"
+                },
+                "B": {
+                  "text": "储存利用不等于直接补给地下水。"
+                },
+                "C": {
+                  "text": "收集用水未必通过花园，因果扩大。"
+                },
+                "D": {
+                  "text": "文段强调不同连接形成不同路径。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk06-4-r1",
+      "createdAt": 1788880997331,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "便携钟的取舍",
+        "count": 1
+      },
+      "content": {
+        "title": "便携钟的取舍",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "把精密原子钟搬出实验室，不能只把原有器材装进一个更小的箱子。光学钟需要稳定的探测光、对原子的控制和频率读出，实验室中有利于精密测量的条件，在移动或受限的空间里未必能够原样获得。研制便携设备时，研究者因而需要同时考虑体积、结构和性能，有些设计会在可携带性与测量能力之间作出取舍。实验室原型、能够运输的装置和广泛应用的产品，代表不同的工程阶段，某项实验室指标也不能单独说明设备已经适合日常部署。不过，走向更灵活的使用环境仍有意义：精密频率比较可以服务于科学实验，也能扩展时间测量的应用范围。微观基准具有稳定特性，只是起点；要让这种稳定性在不同场景中被可靠地调用，还需把光学、电子与结构控制整合为能够实际工作的系统。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "标题选择",
+            "stem": "最适合做这段文字标题的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "原子跃迁频率的自然来源"
+              },
+              {
+                "id": "B",
+                "text": "光学钟在科学研究中的应用清单"
+              },
+              {
+                "id": "C",
+                "text": "实验室计时装置的小型化成果"
+              },
+              {
+                "id": "D",
+                "text": "精密计时走出实验室的工程课题"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "全文讨论走向便携与应用所需的系统权衡。\n\n材料来源（2026-09-08读取）：NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "在可携带性与测量能力之间作出取舍"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "未展开原子跃迁机理。"
+                },
+                "B": {
+                  "text": "应用意义是局部，未列清单。"
+                },
+                "C": {
+                  "text": "只覆盖体积，且文段重在课题而非成果展示。"
+                },
+                "D": {
+                  "text": "全文讨论走向便携与应用所需的系统权衡。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk06-5-r1",
+      "createdAt": 1788880997332,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "沉积顺序的条件",
+        "count": 1
+      },
+      "content": {
+        "title": "沉积顺序的条件",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "考古学家观察不同土层中的遗物，可以利用层位关系判断事件的先后。在未受扰动的堆积中，下层通常早于覆盖它的上层，器物所在的位置因而具有年代信息。但遗址并非一座从不改变内部结构的档案库，后来的活动可能扰动早先堆积，使物品原来的关系发生变化。记录发现位置、辨认地层以及判断这些关系是否保持完整，是解释器物时的重要工作。器物的形制变化也能提供相对次序，研究者可以比较不同组合，建立先后关系；若要把它们放入更明确的时间范围，还可结合带有年代的记录或其他定年方法。层位、器物特征和定年数据并列在研究中，并不是互不相关的三份结论，而是需要围绕具体出土情境加以联系的证据。一件东西是什么，与它为何出现在那里，共同影响对遗址历史的解释。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "下列说法与文段不符的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "器物形制的比较可以用于建立相对年代次序"
+              },
+              {
+                "id": "B",
+                "text": "不同定年证据需要联系具体的出土情境加以解释"
+              },
+              {
+                "id": "C",
+                "text": "只要出土深度较大，器物就必定比浅处器物更早"
+              },
+              {
+                "id": "D",
+                "text": "利用上下层关系判断先后需要关注堆积是否受扰动"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "把未受扰动条件下的层位关系扩大为无条件规律。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "判断这些关系是否保持完整"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "符合形制比较的作用。"
+                },
+                "B": {
+                  "text": "符合末段证据组织方式。"
+                },
+                "C": {
+                  "text": "把未受扰动条件下的层位关系扩大为无条件规律。"
+                },
+                "D": {
+                  "text": "符合条件限制。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk06-6-r1",
+      "createdAt": 1788880997333,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "从原子共振到时间读数",
+        "count": 5
+      },
+      "content": {
+        "title": "从原子共振到时间读数",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "钟表需要一种重复出现的变化，也需要记录这种变化经过了多少次。机械钟利用摆动或振动，电子设备可以利用晶体振荡。制造出来的部件会受到材料、加工和环境等因素影响，节拍可能出现偏差。为了获得更稳定的参照，研究者把目光转向原子的内部状态。同一种原子具有一致的自然特性，能够为调节振荡频率提供基准；但原子并不会自行在显示屏上报出时间，基准与读数之间还有一套测量和控制过程。",
+              "当电磁波的频率接近原子某个能态跃迁所对应的频率时，原子更容易吸收能量并改变状态，这就是共振现象。研究者调节电磁波，观察原子的响应，再根据响应继续调整，使波的频率贴近目标。这里并不是把一群原子逐个数完来计时，而是利用原子检验和约束电磁振荡的频率，再对振荡周期进行计数。自然界提供参照，人工装置完成探测、调节与读出，两者需要配合工作。",
+              "现行秒的定义与铯原子的一种特定跃迁有关，以相应辐射的九十一亿九千二百六十三万一千七百七十个周期定义一秒。这个数目赋予频率与时间单位之间明确的关系，也使不同地方的实验装置能够围绕同一物理参照实现时间测量。不过，采用相同原子，并不意味着各台装置的实际表现自动相同。对环境影响的控制、探测方法和工程实现，仍会影响把定义转化为测量结果的质量。",
+              "光学钟把工作频率推进到更高的光学范围。若把重复振荡看作时间尺上的刻度，更高的频率提供了更细的划分，但还需要能够稳定产生并测量这种快速变化的技术。探测激光必须非常稳定，普通用途的激光难以直接承担相应工作。光学腔可以帮助稳定激光，原子的响应继续提供频率参照。与此同时，光的振荡快到普通电子设备难以直接逐个计数，需要在光学频率与可处理的信号之间建立联系。",
+              "频率梳为这种联系提供了关键工具。它以一系列间隔规则的频率构成可比较的尺度，把光学频率与微波频率联系起来。于是，“刻度更细”才有了进入计量系统的可操作路径。光学钟也有不同的原子控制方式：一些装置使用被约束的单个离子，另一些则在光晶格中同时研究许多原子。后者能够利用大量原子的测量结果进行平均，但如何减小囚禁光场等因素对跃迁频率的影响，仍是设计中的问题。",
+              "从高精度实验向实际使用发展，还涉及另外一组要求。系统中的激光、电子设备和原子控制装置需要共同保持工作，搬运、空间与体积限制都会带来工程取舍。便携性与极高的实验室指标之间，可能需要平衡。计时技术的应用也不只在钟面上：卫星导航需要比较时间信号，通信系统需要协调操作，科学研究则可利用精密频率比较检验物理效应。不同用途关心的系统条件并不完全一致。",
+              "原子钟的发展由此呈现出相互连接的两条线索：一条是寻找并控制稳定的物理参照，另一条是把参照转化为可比较、可计数和可使用的信号。更高频率、更精密的探测与更可靠的装置，需要在同一系统中发挥作用。评价一台钟时，既要理解原子所提供的基准，也要看到围绕它建立的实现过程。时间单位的统一与具体设备的改进，在这条从微观共振通往实际读数的路径上汇合。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "过程理解",
+            "stem": "根据第二段，下列哪项最符合原子钟的计时过程？",
+            "options": [
+              {
+                "id": "A",
+                "text": "直接读取单个原子携带的完整日期与时刻"
+              },
+              {
+                "id": "B",
+                "text": "测量原子的空间移动，再累计经过探测器的原子数"
+              },
+              {
+                "id": "C",
+                "text": "依据原子响应调节频率，再计数相应振荡周期"
+              },
+              {
+                "id": "D",
+                "text": "先把任意振荡规定为一秒，再改变原子的自然特性"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "共振响应约束频率，计数对象是振荡周期。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "利用原子检验和约束电磁振荡的频率"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "原子不是存储日期的装置。"
+                },
+                "B": {
+                  "text": "错误地把计数对象替换成原子。"
+                },
+                "C": {
+                  "text": "共振响应约束频率，计数对象是振荡周期。"
+                },
+                "D": {
+                  "text": "颠倒自然参照与人工调节的关系。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "第三段主要区分了：",
+            "options": [
+              {
+                "id": "A",
+                "text": "同一台钟的显示格式与不同地区的时区"
+              },
+              {
+                "id": "B",
+                "text": "时间单位的共同物理定义与设备实现的具体质量"
+              },
+              {
+                "id": "C",
+                "text": "铯原子的化学性质与不同元素的制造方法"
+              },
+              {
+                "id": "D",
+                "text": "机械钟的加工流程与电子钟的材料选择"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "先介绍秒的统一定义，再指出实际实现仍有差别。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "采用相同原子，并不意味着各台装置的实际表现自动相同"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "时区和显示格式未涉及。"
+                },
+                "B": {
+                  "text": "先介绍秒的统一定义，再指出实际实现仍有差别。"
+                },
+                "C": {
+                  "text": "本段不讨论化学或元素制造。"
+                },
+                "D": {
+                  "text": "机械电子钟仅在前文概述。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "语句填空",
+            "stem": "若在第五段“频率梳为这种联系提供了关键工具”之前补入一句话，最恰当的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "因此，增加原子数量已经可以替代频率测量所需的技术。"
+              },
+              {
+                "id": "B",
+                "text": "因此，光学钟应回到依靠机械摆动提供自然基准的路线。"
+              },
+              {
+                "id": "C",
+                "text": "因此，还需把快速的光学振荡接入能够测量和比较的频率尺度。"
+              },
+              {
+                "id": "D",
+                "text": "因此，只要继续提高激光频率，就可以省去全部信号读出环节。"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "承接第四段电子计数困难，引出第五段频率梳的作用。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "把光学频率与微波频率联系起来"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "数量平均不能替代频率读出。"
+                },
+                "B": {
+                  "text": "与发展路线及后文工具均不衔接。"
+                },
+                "C": {
+                  "text": "承接第四段电子计数困难，引出第五段频率梳的作用。"
+                },
+                "D": {
+                  "text": "更高频率不能自动解决读出困难。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "信息缺失",
+            "stem": "文章没有介绍下列哪项内容？",
+            "options": [
+              {
+                "id": "A",
+                "text": "原子共振在频率调节中的作用"
+              },
+              {
+                "id": "B",
+                "text": "精密计时在导航和通信中的用途"
+              },
+              {
+                "id": "C",
+                "text": "频率梳连接的频率范围"
+              },
+              {
+                "id": "D",
+                "text": "购买便携式光学钟的市场价格"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "没有提供价格或购买信息。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 6,
+                  "quote": "卫星导航需要比较时间信号"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "第二段介绍。"
+                },
+                "B": {
+                  "text": "第六段介绍相关用途。"
+                },
+                "C": {
+                  "text": "第五段介绍光学与微波的联系。"
+                },
+                "D": {
+                  "text": "没有提供价格或购买信息。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "全文主旨",
+            "stem": "文章主要说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "铯原子的特定跃迁为秒的定义提供了依据"
+              },
+              {
+                "id": "B",
+                "text": "光学钟借助更高频率获得更细的时间刻度"
+              },
+              {
+                "id": "C",
+                "text": "原子计时需要把自然基准与信号测量及工程实现连接起来"
+              },
+              {
+                "id": "D",
+                "text": "便携设备在性能和体积之间需要进行权衡"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "覆盖全文的基准、反馈、读出和应用实现。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 7,
+                  "quote": "把参照转化为可比较、可计数和可使用的信号"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "第三段内容，范围偏窄。"
+                },
+                "B": {
+                  "text": "第四段要点，未覆盖全篇。"
+                },
+                "C": {
+                  "text": "覆盖全文的基准、反馈、读出和应用实现。"
+                },
+                "D": {
+                  "text": "第六段工程问题，属于局部。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    }
+  ]
+}

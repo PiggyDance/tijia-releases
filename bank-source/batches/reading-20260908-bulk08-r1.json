@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20260908-bulk08-r1",
+  "items": [
+    {
+      "id": "reading-20260908-bulk08-1-r1",
+      "createdAt": 1788881235357,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "自然过程与土地用途",
+        "count": 1
+      },
+      "content": {
+        "title": "自然过程与土地用途",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "同一片土壤，可以支持作物生长、为生物提供栖居空间，也可以调节水分和物质的流动；当它成为道路或建筑的基础时，人们关心的性能又会发生变化。不同用途之间有时能够协调，有时则存在取舍。把土壤视为有多种功能的资源，有助于把土地安排与具体场地条件联系起来。城市不透水表面的增加，会改变雨水进入土壤的机会与地表径流；上游土地管理所造成的泥沙变化，又可能影响下游水体。因而，土壤的作用既不能只按作物产量评价，也不能仅在单块土地边界内理解。研究、规划和实际利用之间，需要把局部选择与较大范围的后果联系起来。土地用途并不是在一张空白图纸上任意填入的名称，它会改变土壤原有功能如何发挥，也会决定哪些功能被保留、受到限制或面临恢复。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "文段主要强调：",
+            "options": [
+              {
+                "id": "A",
+                "text": "上游土地管理会影响下游泥沙与水体"
+              },
+              {
+                "id": "B",
+                "text": "土壤能够为作物和其他生物提供生存条件"
+              },
+              {
+                "id": "C",
+                "text": "土地安排需要考虑土壤的多重功能及用途变化的范围效应"
+              },
+              {
+                "id": "D",
+                "text": "城市不透水表面改变雨水进入土壤的机会"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "开头多功能，继而用途取舍与跨地块效应，共同指向规划考虑。\n\n材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤—地球活的皮肤》 https://issas.cas.cn/kxcb/kpwz/201211/t20121109_3680831.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "把局部选择与较大范围的后果联系起来"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "仅是范围效应的例子。"
+                },
+                "B": {
+                  "text": "仅是功能举例。"
+                },
+                "C": {
+                  "text": "开头多功能，继而用途取舍与跨地块效应，共同指向规划考虑。"
+                },
+                "D": {
+                  "text": "仅是用途变化的例子。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤—地球活的皮肤》 https://issas.cas.cn/kxcb/kpwz/201211/t20121109_3680831.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk08-2-r1",
+      "createdAt": 1788881235358,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "通向地下的水",
+        "count": 1
+      },
+      "content": {
+        "title": "通向地下的水",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "把地表径流引向地下，能够在合适条件下增加地下水补给，却也可能把污染物带往地下水层。设计入渗设施时，工程人员需要了解土壤的孔隙与透水能力、地下水深度和地质状况，还要调查土地过去及现在的用途。车辆维修、燃料经营或某些工业活动区域产生的径流，可能携带较高浓度的污染物，处理这类来水时尤其需要慎重。预处理可以在水进入后续环节前减少污染，衬层与底部排水安排则可以改变水最终去往何处。不适合增加入渗的场地，还可以考虑屋顶滞留、收集再利用等路径。因此，雨水管理的目标与采用的方式需要分开判断：希望减少集中排放，并不必然要求每处都增加地下渗透。设施所连接的地表活动、处理环节和地下环境，共同决定了某一方案是否适合具体场地。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "意图判断",
+            "stem": "文段意在说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "改善土壤透水能力是所有雨水工程最先完成的步骤"
+              },
+              {
+                "id": "B",
+                "text": "雨水预处理能够免除对土地既往用途的调查"
+              },
+              {
+                "id": "C",
+                "text": "雨水入渗方案需同时评估来水污染与场地地下条件"
+              },
+              {
+                "id": "D",
+                "text": "只要减少地表集中排放，就必然能够改善地下水质"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "全文围绕有条件入渗展开，强调来水与地下关系。\n\n材料来源（2026-09-08读取）：EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "目标与采用的方式需要分开判断"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "透水改进不是所有工程必选，尚有替代路径。"
+                },
+                "B": {
+                  "text": "预处理不能替代风险识别。"
+                },
+                "C": {
+                  "text": "全文围绕有条件入渗展开，强调来水与地下关系。"
+                },
+                "D": {
+                  "text": "排放量与地下水质并非这种必然因果。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk08-3-r1",
+      "createdAt": 1788881235359,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "木材的两种时间",
+        "count": 1
+      },
+      "content": {
+        "title": "木材的两种时间",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "将一段木材的年轮与可靠的参照序列匹配，可以确定相应年轮形成的年份。若最外层生长记录保存完整，研究者还可能接近树木停止生长的时间。然而，木材进入建筑并不一定紧随树木死亡。旧木可能在较晚时期才被收集，也可能从原有结构中拆出后再次使用；建筑上的木材因此同时携带生物生长与人类利用两类历史。在分析遗址时，年轮信息需要与木材的保存状态、出土关系及其他材料结合，才能判断它支持哪一种事件的年代。一组来自同一建筑的木构件，可能有助于相互比较，但“木材生长于何时”与“建筑何时修建”仍是需要通过证据连接的两个问题。树轮提供了精细记录，考古解释则把记录放回物品经历的生命过程，辨明其中哪些时间能够对应研究者所关心的活动。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "合理推断",
+            "stem": "根据文段，下列判断最稳妥的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "二次使用木材的年轮无法再提供任何生长年代信息"
+              },
+              {
+                "id": "B",
+                "text": "只要最外层年轮完整，就能直接确定建筑完工年份"
+              },
+              {
+                "id": "C",
+                "text": "某木构件的最晚年轮早于建筑修建，并不必然构成证据矛盾"
+              },
+              {
+                "id": "D",
+                "text": "同一建筑中的全部木构件最晚年轮必定相同"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "旧木晚用或再用可以造成时间差，不能直接视为矛盾。\n\n材料来源（2026-09-08读取）：NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "旧木可能在较晚时期才被收集"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "再用影响事件对应，不抹去生长记录。"
+                },
+                "B": {
+                  "text": "还需连接生长停止与建筑事件。"
+                },
+                "C": {
+                  "text": "旧木晚用或再用可以造成时间差，不能直接视为矛盾。"
+                },
+                "D": {
+                  "text": "木材经历可能不同。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk08-4-r1",
+      "createdAt": 1788881235360,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "被记录的土壤剖面",
+        "count": 1
+      },
+      "content": {
+        "title": "被记录的土壤剖面",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "土壤标本并不只有一小瓶散开的泥土。中国科学院南京土壤研究所的土壤标本工作从二十世纪五十年代开始，除了瓶装、盒装样本，还保存能够呈现垂直层次的整段土壤剖面。不同地区的样本可以用于比较土壤类型和特征，剖面的结构又把颜色、层次等信息保留在相互关联的位置上。这些材料既服务于研究，也能够通过展陈帮助公众认识脚下环境的差异。随着调查、交换和收藏持续进行，标本馆将分散地域的对象集中到可观察、可比较的空间，使不同时间留下的记录有机会被再次使用。展示只是其中一种用途，研究者也能把既有样本与新的问题联系起来。保存下来的土壤因而具有双重面貌：它是来自具体地点的实物，也是连接分类、比较、教育与后续研究的资料。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "标题选择",
+            "stem": "最适合做文段标题的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "土壤剖面的颜色分类方法"
+              },
+              {
+                "id": "B",
+                "text": "标本展厅的空间设计技巧"
+              },
+              {
+                "id": "C",
+                "text": "土壤标本的保存与再认识"
+              },
+              {
+                "id": "D",
+                "text": "现代土壤调查的设备更新"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "涵盖保存形式、多种用途与后续使用。\n\n材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤标本馆简介》 https://issas.cas.cn/kxcb/trbbg/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "连接分类、比较、教育与后续研究的资料"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "分类方法未具体展开，且仅是局部。"
+                },
+                "B": {
+                  "text": "没有讲展厅设计。"
+                },
+                "C": {
+                  "text": "涵盖保存形式、多种用途与后续使用。"
+                },
+                "D": {
+                  "text": "未介绍设备更新。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤标本馆简介》 https://issas.cas.cn/kxcb/trbbg/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk08-5-r1",
+      "createdAt": 1788881235362,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "光谱中的缺口",
+        "count": 1
+      },
+      "content": {
+        "title": "光谱中的缺口",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "研究遥远行星的大气，可以先比较行星经过恒星前方与其他时刻收到的星光。凌日期间，有一部分星光穿过行星大气，其中某些波长会被气体分子吸收，观测光谱因而留下相应的变化。不同分子具有不同的吸收特征，研究者把观测到的特征与已有参照相比较，寻找大气成分的线索。这种方法利用了恒星提供的背景光，并不需要先获得一张能够看清行星表面的照片。仪器的波长覆盖和测量能力会影响能够识别哪些特征，地球大气对某些红外波段的吸收又会限制地面观测。位于太空的望远镜可以避开这一层干扰，却仍需完成光的收集、分解与比较。远方大气的线索藏在光谱的变化之中，把变化转为成分判断，则依靠观测条件、分子特征和参照资料之间的对应。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "根据文段，辨认行星大气分子的主要依据是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "特定波长的光谱变化与分子吸收特征之间的对应"
+              },
+              {
+                "id": "B",
+                "text": "行星遮住恒星的面积与某种分子质量相等"
+              },
+              {
+                "id": "C",
+                "text": "太空望远镜不再需要使用任何参照资料"
+              },
+              {
+                "id": "D",
+                "text": "行星在直接照片中呈现的地表纹理"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "文段明确以吸收特征比对获取成分线索。\n\n材料来源（2026-09-08读取）：NASA《How Will Webb Study Exoplanets?》 https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-will-webb-study-exoplanets/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "不同分子具有不同的吸收特征"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "文段明确以吸收特征比对获取成分线索。"
+                },
+                "B": {
+                  "text": "没有这种对应关系。"
+                },
+                "C": {
+                  "text": "太空观测仍需比较与参照。"
+                },
+                "D": {
+                  "text": "不以地表照片为前提。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NASA《How Will Webb Study Exoplanets?》 https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-will-webb-study-exoplanets/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk08-6-r1",
+      "createdAt": 1788881235363,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "海岸生态的多重联系",
+        "count": 5
+      },
+      "content": {
+        "title": "海岸生态的多重联系",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "沿海生态系统连接陆地与海洋，却并不是一种均匀铺展的环境。河水带着陆地输入进入水域，潮汐改变岸边水位，植物与动物又在这些变化中形成各自的生存方式。河口、红树林、海草床和珊瑚等对象，具有不同的结构与作用，不能只因位置接近就当作同一种生境。观察它们，需要把水流、沉积、营养与生物之间的联系分开辨认，再理解这些联系怎样在海岸空间中共同发生。",
+              "河流入海形成的河口，常有淡水与海水混合所形成的半咸水环境。适应这种条件的生物在此觅食、繁殖或停歇，周围湿地等还参与过滤陆地径流。河口因而既是许多动物利用的生境，也处于陆地活动影响水域的通道上。不过，类似的生态联系也见于某些完全淡水环境，例如北美五大湖的河水与湖水交汇区域。是否存在海水，并不能单独决定一个水陆交接环境是否具有过滤和育幼等功能。",
+              "在热带和亚热带潮间带，红树林根系把另一些联系变得清晰可见。交错的根系减缓水流，使细小颗粒更容易沉降，并帮助稳定岸线。鱼类等动物可以利用根系间隙避开捕食者，幼体也获得生长空间。对于同一根系结构，水流速度、沉积物停留与动物活动分别呈现不同侧面。它们共同说明，植被的作用不仅体现在枝叶覆盖的面积，还体现在结构如何改变周围的物理环境并形成生境。",
+              "海草床、红树林和盐沼还有一条与碳有关的共同线索：植物吸收的碳可以进入地下土壤和沉积物，在那里长期积累。看得见的植物是过程的一部分，地下储存也是重要部分。当生态系统受损或退化时，原来积累的碳可能重新释放。因此，保护此类沿海系统，既涉及延续吸收过程，也涉及保全已经形成的储存；同时还可能保留生物栖居和海岸防护等功能，使同一保护行动具有不同层面的收益。",
+              "珊瑚呈现的是另一种生物之间的联系。生活在珊瑚组织中的藻类通过光合作用提供营养，并参与形成珊瑚的颜色。环境压力可能使藻类被排出，珊瑚由此发生白化。温度异常升高是常见压力来源，异常降温、污染和过强日照等也可能造成影响。白化说明共生关系受到扰动，却不直接等于珊瑚已经死亡；压力是否持续以及损伤的程度，会影响之后能否恢复。",
+              "珊瑚等海洋生物还可能受到海水化学变化的影响。海水吸收二氧化碳后，一系列反应增加氢离子，并减少某些生物形成贝壳或骨骼时能够利用的碳酸根离子。这里的关键链条涉及溶解物质、化学反应和生物造壳所需条件，与白化过程中共生藻类的离开并不相同。两种影响都可能作用于海洋生物，解释时却需要区分其机制、对象和观察信号，避免把同处海洋的变化归为一种过程。",
+              "从上述联系可以看到，沿海环境的变化有时首先表现为水流或沉积改变，有时表现为生物共生关系受扰，有时则隐藏在土层储碳和水中离子的变化里。研究与保护需要依据具体对象寻找相应的证据：观察地上形态之外，还要了解地下储存；记录颜色变化之外，还要辨认诱因与后续状态。海岸作为陆海相接的区域，其功能来自多种过程的共同参与，理解过程之间的差异，是认识整体联系的基础。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "关于第二段，下列说法不符合文意的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "某些河水与湖水交汇的淡水区域具有类似功能"
+              },
+              {
+                "id": "B",
+                "text": "过滤径流和为生物育幼的功能必须以海水参与为前提"
+              },
+              {
+                "id": "C",
+                "text": "一些动物会利用河口觅食繁殖或停歇"
+              },
+              {
+                "id": "D",
+                "text": "河口可以处于陆地活动影响水域的通道上"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "完全淡水环境也可有这些功能，否定“必须”条件。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "类似的生态联系也见于某些完全淡水环境"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "段末给出五大湖例子。"
+                },
+                "B": {
+                  "text": "完全淡水环境也可有这些功能，否定“必须”条件。"
+                },
+                "C": {
+                  "text": "文段直接提及。"
+                },
+                "D": {
+                  "text": "符合陆地输入与水域联系。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "段落概括",
+            "stem": "第三段的论述重点是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "红树林地下储碳在全部沿海储碳中的比例"
+              },
+              {
+                "id": "B",
+                "text": "红树林的生长速度怎样随纬度精确变化"
+              },
+              {
+                "id": "C",
+                "text": "不同红树树种各自适合栽种在哪些地方"
+              },
+              {
+                "id": "D",
+                "text": "红树林根系通过改变环境同时形成多种生态作用"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "水流、沉积、岸线及动物空间共同说明根系多种作用。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "结构如何改变周围的物理环境并形成生境"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "储碳在第四段，且无比例。"
+                },
+                "B": {
+                  "text": "没有定量纬度关系。"
+                },
+                "C": {
+                  "text": "没有比较树种栽种区域。"
+                },
+                "D": {
+                  "text": "水流、沉积、岸线及动物空间共同说明根系多种作用。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "第四段“保全已经形成的储存”主要指：",
+            "options": [
+              {
+                "id": "A",
+                "text": "减少生态系统受损导致地下既有碳库释放的风险"
+              },
+              {
+                "id": "B",
+                "text": "只测量地上植被面积而不考虑土层变化"
+              },
+              {
+                "id": "C",
+                "text": "把所有植物生长停止以免继续吸收碳"
+              },
+              {
+                "id": "D",
+                "text": "将海水中所有溶解物质转移到树木枝叶"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "承接地下长期积累与受损释放，指保护已有碳库。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "原来积累的碳可能重新释放"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "承接地下长期积累与受损释放，指保护已有碳库。"
+                },
+                "B": {
+                  "text": "忽略了该句所指地下部分。"
+                },
+                "C": {
+                  "text": "停止生长不符合保护吸收能力。"
+                },
+                "D": {
+                  "text": "不是文段的碳储存机制。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "跨段比较",
+            "stem": "第五、六段所述两种影响的区别，最恰当的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "前者必然造成立即死亡，后者只改变生物颜色"
+              },
+              {
+                "id": "B",
+                "text": "前者只可能由降温引起，后者只可能由升温引起"
+              },
+              {
+                "id": "C",
+                "text": "前者涉及共生关系受扰，后者涉及造壳所需化学条件变化"
+              },
+              {
+                "id": "D",
+                "text": "前者研究地下储碳，后者研究河口沉积速度"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "分别对应白化与海水化学变化的机制。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 6,
+                  "quote": "与白化过程中共生藻类的离开并不相同"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "白化不直接等于死亡，后者也非颜色机制。"
+                },
+                "B": {
+                  "text": "两段都不支持这种单一温度划分。"
+                },
+                "C": {
+                  "text": "分别对应白化与海水化学变化的机制。"
+                },
+                "D": {
+                  "text": "把前几段机制移接到此处。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "全文主旨",
+            "stem": "文章主要介绍：",
+            "options": [
+              {
+                "id": "A",
+                "text": "沿海地区所有保护项目应采用相同的监测对象"
+              },
+              {
+                "id": "B",
+                "text": "保存地下碳库是解释海岸全部现象的统一方法"
+              },
+              {
+                "id": "C",
+                "text": "河口与珊瑚系统在生物结构和环境条件上基本相同"
+              },
+              {
+                "id": "D",
+                "text": "沿海生态功能由多种各具机制的物理、化学与生物联系构成"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "全文依次呈现不同联系并强调机制区分。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 7,
+                  "quote": "理解过程之间的差异，是认识整体联系的基础"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "各对象机制不同，应对应证据。"
+                },
+                "B": {
+                  "text": "储碳只是其中一条线索。"
+                },
+                "C": {
+                  "text": "文首及各段均强调结构和机制差异。"
+                },
+                "D": {
+                  "text": "全文依次呈现不同联系并强调机制区分。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html；NOAA《What is a mangrove forest?》 https://oceanservice.noaa.gov/facts/mangroves.html；NOAA《What is blue carbon?》 https://oceanservice.noaa.gov/facts/bluecarbon.html；NOAA《What is coral bleaching?》 https://oceanservice.noaa.gov/facts/coral_bleach.html；NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    }
+  ]
+}

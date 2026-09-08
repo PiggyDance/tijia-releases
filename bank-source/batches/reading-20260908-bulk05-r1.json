@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20260908-bulk05-r1",
+  "items": [
+    {
+      "id": "reading-20260908-bulk05-1-r1",
+      "createdAt": 1788880648535,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "河海交汇处的生境",
+        "count": 1
+      },
+      "content": {
+        "title": "河海交汇处的生境",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "河流进入海洋时，陆地淡水与海水相混，形成具有特殊环境条件的河口水域。生活在这里的生物适应了半咸水，周围的湿地和海草等又参与过滤径流，为鱼类、鸟类及其他动物提供觅食、繁殖和迁徙停歇的空间。河口因此具有较高的生产力，连接着陆地水流和沿海生态。不过，具有类似功能的环境并不限于咸淡水相遇之处。在北美五大湖地区，物理化学性质不同的河水与湖水混合，形成完全淡水的河口生态系统，也能够过滤径流并为生物提供育幼场所。围绕这些水陆交接环境建立的研究保护区，还可以兼顾生境保护、教育和科研，研究水污染、侵蚀以及人类开发的影响。它们既保存着生物活动的空间，又把自然变化转化为能够持续观察的研究对象，使河口成为理解陆地活动与水域生态联系的重要地点。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "信息缺失",
+            "stem": "关于河口生态系统，文段没有提及的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "不同河口的盐度变化周期"
+              },
+              {
+                "id": "B",
+                "text": "研究保护区承担的工作"
+              },
+              {
+                "id": "C",
+                "text": "完全淡水河口的存在"
+              },
+              {
+                "id": "D",
+                "text": "动物在其中开展的生命活动"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "文段没有给出盐度随时间变化的周期。\n\n材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "兼顾生境保护、教育和科研"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "文段没有给出盐度随时间变化的周期。"
+                },
+                "B": {
+                  "text": "提到保护、教育、科研及研究主题。"
+                },
+                "C": {
+                  "text": "明确介绍五大湖淡水河口。"
+                },
+                "D": {
+                  "text": "提到觅食、繁殖、迁徙停歇。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NOAA《What is an estuary?》 https://oceanservice.noaa.gov/facts/estuary.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk05-2-r1",
+      "createdAt": 1788880648536,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "侵蚀发生在何处",
+        "count": 1
+      },
+      "content": {
+        "title": "侵蚀发生在何处",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "土壤侵蚀包含破坏、剥离、搬运和沉积等过程，并非只表现为地面上一道可见的冲沟。暴雨能够直接冲击裸露土面，坡面的水流又会把松动土粒带往别处，坡度、坡长和坡形都会影响这一过程。土壤自身也并非被动而均一的对象：颗粒间的结合、结构状况与根系缠绕，关系到它抵抗分散和冲刷的能力。植被的作用则分布在不同部位，冠层减轻雨滴对土表的直接冲击，根系帮助固定土体。侵蚀造成的影响还会沿着搬运路径延伸，泥沙可能进入河流、水库和港口，增加浑浊与淤积；一些肥沃的冲积平原又是在长期侵蚀和沉积过程中形成的。自然过程塑造了景观，但管理不当使侵蚀加速时，生产土地、空气和水体都可能受损。治理因而既涉及坡面土壤的保持，也与接受泥沙的下游环境相联系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "这段文字主要介绍：",
+            "options": [
+              {
+                "id": "A",
+                "text": "植被根系提高土壤抗冲能力的具体过程"
+              },
+              {
+                "id": "B",
+                "text": "暴雨导致水库和港口淤积的唯一原因"
+              },
+              {
+                "id": "C",
+                "text": "冲积平原形成对农业生产带来的收益"
+              },
+              {
+                "id": "D",
+                "text": "土壤侵蚀的作用条件及跨越发生地的影响"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "既讲多种作用条件，又讲搬运沉积与下游效应。\n\n材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤的头号威胁——土壤侵蚀》 https://issas.cas.cn/kxcb/kpwz/201911/t20191129_5446256.html；中国科学院南京土壤研究所《土壤—地球活的皮肤》 https://issas.cas.cn/kxcb/kpwz/201211/t20121109_3680831.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "既涉及坡面土壤的保持，也与接受泥沙的下游环境相联系"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "只是条件中的一个局部。"
+                },
+                "B": {
+                  "text": "暴雨并非唯一原因，文段还涉及其他因素。"
+                },
+                "C": {
+                  "text": "只覆盖自然沉积收益，漏掉主体。"
+                },
+                "D": {
+                  "text": "既讲多种作用条件，又讲搬运沉积与下游效应。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤的头号威胁——土壤侵蚀》 https://issas.cas.cn/kxcb/kpwz/201911/t20191129_5446256.html；中国科学院南京土壤研究所《土壤—地球活的皮肤》 https://issas.cas.cn/kxcb/kpwz/201211/t20121109_3680831.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk05-3-r1",
+      "createdAt": 1788880648537,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "星光中的引力放大",
+        "count": 1
+      },
+      "content": {
+        "title": "星光中的引力放大",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "恒星的引力不仅影响周围物体的运动，也会改变经过附近的光线传播路径。当一颗前景恒星与更远处恒星的视线位置适合时，前景恒星的引力能够像透镜一样放大背景恒星的光，使观测者看到亮度增强。如果前景恒星还拥有行星，行星的引力可能在这一增亮信号上留下额外变化，成为寻找系外行星的线索。天文学把这种方法称为引力微透镜观测。它利用的是前景系统对背景光的影响，与行星经过主恒星前方、遮挡部分星光而产生亮度下降的凌日方法不同；两者虽然都记录光量的变化，却依赖不同的几何关系与物理过程。前景恒星、伴随它的行星和遥远背景光源共同构成观测场景，原本暗弱的行星不必先在图像中单独显现，其存在的信息便可能附着在另一颗恒星传来的光中。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "根据文段，引力微透镜方法中受到放大的主要是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "前景恒星被行星遮挡后的残余光"
+              },
+              {
+                "id": "B",
+                "text": "经过前景系统附近的背景恒星光"
+              },
+              {
+                "id": "C",
+                "text": "前景行星表面发出的自身可见光"
+              },
+              {
+                "id": "D",
+                "text": "观测仪器主动发向行星的探测光"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "前景引力改变并放大背景光，是文段明示的机制。\n\n材料来源（2026-09-08读取）：NASA《How We Find and Characterize Exoplanets》 https://science.nasa.gov/exoplanets/how-we-find-and-characterize/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "放大背景恒星的光"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "混入凌日遮光机制。"
+                },
+                "B": {
+                  "text": "前景引力改变并放大背景光，是文段明示的机制。"
+                },
+                "C": {
+                  "text": "把背景光源移接为行星自身。"
+                },
+                "D": {
+                  "text": "不是主动发射探测光的实验。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NASA《How We Find and Characterize Exoplanets》 https://science.nasa.gov/exoplanets/how-we-find-and-characterize/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk05-4-r1",
+      "createdAt": 1788880648538,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "传统工艺的研培课堂",
+        "count": 1
+      },
+      "content": {
+        "title": "传统工艺的研培课堂",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "传承人熟悉一项手艺，并不意味着在材料、造型、功能设计和当代需求的所有方面都已具备充分知识。文化和旅游部网站二〇一八年的相关讲话把研培的任务概括为补足这类能力：了解本地文化，有助于形成地域风格；学习色彩、构图等原理，有助于把创意转化为作品；理解生活方式和欣赏习惯的变化，才能找到传统进入当代生活的切入点。一些工艺的瓶颈还涉及材料处理或专门技术，单一艺术学科未必能够解决，高校的多学科合作因而具有意义。与此同时，学校需要回访学员所在社区，观察学习之后的变化，再调整教学。研培由此形成从实践发现问题、借助知识解决问题、再返回实践检验的联系。课堂所补充的不只是某一种新样式，更是使传承人理解原理、选择方法并继续发展的能力。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "意图判断",
+            "stem": "这段文字意在强调：",
+            "options": [
+              {
+                "id": "A",
+                "text": "研培成效应以学员模仿新样式的数量来衡量"
+              },
+              {
+                "id": "B",
+                "text": "跨学科学习应以取代传统师徒授艺为主要目标"
+              },
+              {
+                "id": "C",
+                "text": "研培应联系工艺实践，提升传承人的综合发展能力"
+              },
+              {
+                "id": "D",
+                "text": "传统工艺的地域差异主要来自高校课程差异"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "从文化、艺术、技术和需求展开，指向能力而非单一样式。\n\n材料来源（2026-09-08读取）：文化和旅游部《项兆伦在全国非物质文化遗产保护工作座谈会上的讲话（2018）》 https://www.mct.gov.cn/whzx/whyw/201809/t20180911_834728.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "理解原理、选择方法并继续发展的能力"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "以样式数量替代综合能力和实践效果。"
+                },
+                "B": {
+                  "text": "材料未提出替代师徒授艺。"
+                },
+                "C": {
+                  "text": "从文化、艺术、技术和需求展开，指向能力而非单一样式。"
+                },
+                "D": {
+                  "text": "地域风格关联本地文化，未归因于课程差异。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：文化和旅游部《项兆伦在全国非物质文化遗产保护工作座谈会上的讲话（2018）》 https://www.mct.gov.cn/whzx/whyw/201809/t20180911_834728.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk05-5-r1",
+      "createdAt": 1788880648540,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "激光与原子的相遇",
+        "count": 1
+      },
+      "content": {
+        "title": "激光与原子的相遇",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "原子钟中的光并不是照亮实验装置的普通背景。研究者需要让电磁波接近所选原子的共振频率，使原子吸收能量并改变内部能态，再通过测得的响应继续调节频率。在光学钟中，承担探测任务的激光尤其需要稳定且频率范围很窄。日常用于扫码或指示的激光虽然也具有与普通灯光不同的特性，其精密程度却不足以直接满足这类测量要求。为获得稳定的探测光，可以借助由镜面构成的光学腔，使光反复往返并形成受约束的频率参照；随后还需与原子跃迁建立联系。原子、光学腔和激光器在系统中各有作用，原子的自然特性提供基准，光学装置帮助精细操控与读出这一特性。随着探测和控制技术改进，原本存在于微观物质中的稳定节拍，才逐渐被转化成导航、通信与科学实验能够使用的计时能力。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "下列说法与文段不符的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "原子与光学装置在计时系统中作用不同"
+              },
+              {
+                "id": "B",
+                "text": "原子的能态响应可用于调节探测光频率"
+              },
+              {
+                "id": "C",
+                "text": "日常指示激光可以不经改进直接承担光学钟的精密探测"
+              },
+              {
+                "id": "D",
+                "text": "光学腔有助于获得稳定的探测光"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "文段明确指出普通用途激光的精密程度不足。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "其精密程度却不足以直接满足这类测量要求"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "符合基准与操控的分工。"
+                },
+                "B": {
+                  "text": "符合响应反馈过程。"
+                },
+                "C": {
+                  "text": "文段明确指出普通用途激光的精密程度不足。"
+                },
+                "D": {
+                  "text": "符合光学腔的介绍。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work；NIST《Optical Clocks: The Future of Time》 https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk05-6-r1",
+      "createdAt": 1788880648541,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "城市雨水的多条去路",
+        "count": 5
+      },
+      "content": {
+        "title": "城市雨水的多条去路",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "城市道路、屋顶和停车场改变了雨水与地面的接触方式。雨水管理除了依靠管道输送，也可以在降雨落下或径流经过的位置安排暂存、过滤、蒸发和利用。所谓绿色基础设施，并不是单指大面积种树，而是一组利用植物、土壤和相应工程结构管理水的做法。不同设施可以分布在屋顶、街边、停车区或沿岸，在有限空间里承担不同环节的任务。它们的共同目标与具体水流路径之间，需要通过设计建立联系。",
+              "①雨水花园与生物滞留设施通常具有下凹空间，接收屋顶、道路等处的径流，让水暂时停留，再经过土壤、砂或砾石。街道空间有限时，可以利用带围壁的雨水花箱；沿道路的狭长位置，则适合设置植被浅沟，使水沿着浅槽缓慢流动并受到过滤。植物既是环境景观的一部分，也参与水分处理。由于土层与排水结构不同，同样有植物的设施，水可能向周围地面渗入，也可能通过底部排水管导出。",
+              "②透水铺装让雨水从表面进入下面的砾石等储水层，之后继续下渗或经排水管离开。希望增加地下水补给时，设计可以在合适土壤条件下增加储水空间，使收集的水有时间逐步入渗；也可以调整土壤混合物或排水设置。是否采用这些做法，取决于原有地表覆盖、土壤孔隙、入渗速率和地下水深度。工程师面对的不是单一的表面材料，而是从地面到地下的一段连续水流路径。",
+              "③这一风险在高污染径流汇入的地点尤其需要重视。车辆维修、燃料经营及一些工业活动区域，可能向雨水带入较高浓度的污染物。若接收这类径流的设施直接与地下水发生联系，选址和设计便需慎重。规划时除了了解当前用途，还要调查土地既往使用情况、附近水井及地下地质条件。相应措施可以包括预处理、隔水衬层或底部排水安排，以降低污染物向地下迁移的可能。",
+              "多数以入渗为目的的设施，需要在底层与地下水之间保留适当距离，使水在到达地下水前经过处理；某些人工湿地则可能利用与地下水位相交的条件维持水池，也可以采用不透水衬层。两类设施不能仅凭都被称为绿色基础设施，就套用相同的地下关系。人工湿地还利用浅水区中的沉降与生物吸收去除污染物，其水位维持与处理机制都需要对应具体的设计目标及可用空间。",
+              "④在不适合增加入渗的地方，其他路径仍然可以参与雨水管理。绿色屋顶把雨水保留在植物与基质中，再经排水、蒸发和蒸腾逐步释放；雨水桶和蓄水池则收集屋顶来水，留待灌溉或其他非饮用用途。改变落水管的连接方式，也能把原先直接进入排水系统的雨水导向储水容器或透水区域。这些设施从水的暂存、释放或再利用入手，在不同的位置减少集中进入管网的水量。",
+              "街道和停车场还可以把透水铺装、花箱、植被浅沟与树木组合起来，形成分布在日常空间中的雨水处理环节。保留河岸、湿地与自然开放空间，则从更大的尺度保护原有功能。因此，绿色基础设施的配置并非在几种景观样式中简单挑选，而是根据水从哪里来、携带什么、可以到哪里去以及用地条件作出安排。选择恰当的水流路径，才能使场地利用、水质保护和雨水处理形成相互协调的系统。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "语句插入",
+            "stem": "下面这句话最适合放在文中哪个位置？“不过，增加补给也可能伴随污染物向地下迁移。”",
+            "options": [
+              {
+                "id": "A",
+                "text": "①"
+              },
+              {
+                "id": "B",
+                "text": "②"
+              },
+              {
+                "id": "C",
+                "text": "③"
+              },
+              {
+                "id": "D",
+                "text": "④"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "③之前介绍增加补给，之后“这一风险”承接污染迁移，前后衔接完整。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "这一风险在高污染径流汇入的地点尤其需要重视"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "①后介绍常规设施，缺少对“污染迁移”风险的承接。"
+                },
+                "B": {
+                  "text": "②后的重点仍是补给路径与设计，风险指代在下一段。"
+                },
+                "C": {
+                  "text": "③之前介绍增加补给，之后“这一风险”承接污染迁移，前后衔接完整。"
+                },
+                "D": {
+                  "text": "④后转向替代路径，而“这一风险”的指代会留在前面。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "信息缺失",
+            "stem": "关于雨水花箱，第二段没有提及下列哪方面信息？",
+            "options": [
+              {
+                "id": "A",
+                "text": "不同季节的维护频次"
+              },
+              {
+                "id": "B",
+                "text": "围壁这一结构特点"
+              },
+              {
+                "id": "C",
+                "text": "过滤后水流的可能去向"
+              },
+              {
+                "id": "D",
+                "text": "适用的空间条件"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "段中没有季节性维护安排。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "街道空间有限时，可以利用带围壁的雨水花箱"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "段中没有季节性维护安排。"
+                },
+                "B": {
+                  "text": "明确写有围壁。"
+                },
+                "C": {
+                  "text": "段末说明下渗或底部排水的路径。"
+                },
+                "D": {
+                  "text": "明确提到街道空间有限。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "根据第五段，下列说法正确的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "两类设施的底层到地下水距离必须完全相同"
+              },
+              {
+                "id": "B",
+                "text": "人工湿地的主要作用是用屋顶基质截留降雨"
+              },
+              {
+                "id": "C",
+                "text": "一般入渗设施应通过与地下水位相交维持浅水池"
+              },
+              {
+                "id": "D",
+                "text": "人工湿地可能具有不同于一般入渗设施的地下水关系"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "第五段对两类设施进行区分。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "某些人工湿地则可能利用与地下水位相交的条件维持水池"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "原文反对套用同一关系。"
+                },
+                "B": {
+                  "text": "误把绿色屋顶机制移给湿地。"
+                },
+                "C": {
+                  "text": "移接了某些湿地的条件。"
+                },
+                "D": {
+                  "text": "第五段对两类设施进行区分。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "第六段“其他路径”主要指：",
+            "options": [
+              {
+                "id": "A",
+                "text": "不以增加地下入渗为主的暂存、缓释与再利用方式"
+              },
+              {
+                "id": "B",
+                "text": "把更多污染径流直接引入较深地下水层"
+              },
+              {
+                "id": "C",
+                "text": "取消场地内所有储水结构的直接排放方式"
+              },
+              {
+                "id": "D",
+                "text": "仅以地下水位相交维持池水的湿地方式"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "段内列举屋顶、蓄水与落水管改接，涵盖暂存释放利用。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 6,
+                  "quote": "从水的暂存、释放或再利用入手"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "段内列举屋顶、蓄水与落水管改接，涵盖暂存释放利用。"
+                },
+                "B": {
+                  "text": "与不适合入渗的语境相反。"
+                },
+                "C": {
+                  "text": "设施恰恰包含储水结构。"
+                },
+                "D": {
+                  "text": "不是第六段列举的路径。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "全文主旨",
+            "stem": "这篇文章主要说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "扩大屋顶植被面积比保护自然湿地更有效"
+              },
+              {
+                "id": "B",
+                "text": "雨水花园应成为所有街道改造的统一形式"
+              },
+              {
+                "id": "C",
+                "text": "城市绿色基础设施需依据场地条件组织不同雨水路径"
+              },
+              {
+                "id": "D",
+                "text": "地下水补给量是评价绿色设施的唯一指标"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "全文介绍形式、路径、风险与配置，强调因地设计。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 7,
+                  "quote": "根据水从哪里来、携带什么、可以到哪里去以及用地条件作出安排"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "未作这种效果比较。"
+                },
+                "B": {
+                  "text": "将一类设施推广为统一模板。"
+                },
+                "C": {
+                  "text": "全文介绍形式、路径、风险与配置，强调因地设计。"
+                },
+                "D": {
+                  "text": "全文包含水质、再利用等多个目标。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure；EPA《Green Infrastructure and Groundwater Protection》 https://www.epa.gov/green-infrastructure/green-infrastructure-and-groundwater-protection。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    }
+  ]
+}

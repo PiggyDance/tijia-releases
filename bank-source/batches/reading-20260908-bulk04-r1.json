@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20260908-bulk04-r1",
+  "items": [
+    {
+      "id": "reading-20260908-bulk04-1-r1",
+      "createdAt": 1788880310223,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "土壤酸度的两种信息",
+        "count": 1
+      },
+      "content": {
+        "title": "土壤酸度的两种信息",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "土壤的酸性包含彼此联系的两类信息。通常测得的酸碱度反映溶液中氢离子的活度，这个数值并不等同于土壤中全部酸的数量。中国科学院南京土壤研究所的科普文章介绍，土壤固相上还存在能够与溶液交换的潜性酸，部分交换性铝进入溶液后可经水解产生氢离子，进而影响活性酸度。固体颗粒与土壤溶液因此处在持续联系之中，当前溶液中的状态只是这一体系的一部分。中和反应发生时，固相所保有的酸性成分仍可能继续参与，所需中和量便不仅由起初的溶液读数决定。酸碱度为认识土壤环境提供一个重要指标，而固相的储存和反应则补充了另一个维度。两类信息从强弱状态与可参与反应的数量出发，帮助研究者理解同一土壤体系中，读数变化与物质转移怎样相互关联。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "这段文字主要说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "酸碱度有判断价值，但不能直接代表土壤全部酸的数量"
+              },
+              {
+                "id": "B",
+                "text": "研究酸性土壤需要记录中和反应的过程"
+              },
+              {
+                "id": "C",
+                "text": "交换性铝进入溶液后可通过水解产生氢离子"
+              },
+              {
+                "id": "D",
+                "text": "土壤固相能够与溶液中的成分进行交换"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "全文区分读数的强弱维度与可参与反应的数量。\n\n材料来源（2026-09-08读取）：中国科学院南京土壤研究所《关于土壤酸化的几个冷知识》 https://issas.cas.cn/kxcb/kpwz/201901/t20190103_5224522.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "这个数值并不等同于土壤中全部酸的数量"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "全文区分读数的强弱维度与可参与反应的数量。"
+                },
+                "B": {
+                  "text": "是较泛的研究任务，没有回应读数与总量差异。"
+                },
+                "C": {
+                  "text": "只是解释潜性酸的一种过程。"
+                },
+                "D": {
+                  "text": "是两类信息联系的基础，未概括指标边界。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：中国科学院南京土壤研究所《关于土壤酸化的几个冷知识》 https://issas.cas.cn/kxcb/kpwz/201901/t20190103_5224522.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk04-2-r1",
+      "createdAt": 1788880310224,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "海水化学与贝壳生长",
+        "count": 1
+      },
+      "content": {
+        "title": "海水化学与贝壳生长",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "海洋吸收大气中的二氧化碳，会影响海水的化学平衡。相关反应使氢离子增加，并减少某些生物可以利用的碳酸根离子。对牡蛎、蛤蜊和珊瑚等形成碳酸钙结构的生物来说，碳酸根是建造或维持壳体、骨骼的重要物质，供给条件变化可能增加这一过程的困难。美国国家海洋和大气管理局还介绍，较酸的水体可能影响某些鱼类辨认捕食者的能力，继而影响它们在食物网中的关系。同一种海水化学变化，由此沿着结构形成和行为变化等不同路径发生作用。生物利用溶解物质形成身体结构，与通过感知应对周围动物，涉及不同的生命活动；环境变化能够分别进入这些活动的条件。海水与生物的联系不仅体现在某一种可见结构上，也延伸到行为和食物关系中，成为研究生态影响时需要相互联系的线索。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "下列说法不符合文段的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "碳酸根减少可能增加某些生物维持壳体的困难"
+              },
+              {
+                "id": "B",
+                "text": "海水化学变化可能通过行为影响进入食物网"
+              },
+              {
+                "id": "C",
+                "text": "海水酸化对鱼类的影响必须通过破坏其碳酸钙外壳发生"
+              },
+              {
+                "id": "D",
+                "text": "不同生物可能受到同一环境变化的不同影响"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "鱼类的行为路径并不以破坏壳体为前提，选项错接机制。\n\n材料来源（2026-09-08读取）：NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "沿着结构形成和行为变化等不同路径发生作用"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "符合碳酸根作为建筑原料的论述。"
+                },
+                "B": {
+                  "text": "符合识别捕食者的例子。"
+                },
+                "C": {
+                  "text": "鱼类的行为路径并不以破坏壳体为前提，选项错接机制。"
+                },
+                "D": {
+                  "text": "符合材料对不同作用路径的概括。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NOAA《What is Ocean Acidification?》 https://oceanservice.noaa.gov/facts/acidification.html。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk04-3-r1",
+      "createdAt": 1788880310225,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "屋顶雨水的缓释路径",
+        "count": 1
+      },
+      "content": {
+        "title": "屋顶雨水的缓释路径",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "绿色屋顶利用植物及其生长基质等，在降雨落到建筑时接收并保留一部分水。之后，水可以通过排水、蒸发和植物蒸腾等路径逐步离开，使屋顶进入城市的雨水管理系统。美国环境保护署介绍，这类屋顶还可能降低建筑能耗，因而同一设施兼有水分管理与建筑环境方面的作用。与设置在地面的入渗设施相比，屋顶的位置、承接来水的方式以及后续排水条件不同，植物生长在基质中的相近外观，可以对应不同的水流路线。城市雨水处理可以由多类设施共同参与：屋顶截留降雨，容器收集水以供利用，地面设施在适合条件下接纳并过滤径流。它们在各自空间中安排水的停留与离开，形成分布式处理的环节。绿色屋顶正是其中一条路径，把建筑原有的接雨表面转化为能够暂存和缓释雨水的空间。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节判断",
+            "stem": "根据文段，对绿色屋顶的正确理解是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "可截留并逐步释放雨水，其作用不等于直接补给地下土壤"
+              },
+              {
+                "id": "B",
+                "text": "绿色屋顶与地面入渗设施具有完全一致的水流路径"
+              },
+              {
+                "id": "C",
+                "text": "管理雨水的效果来自把所有降雨永久封存在屋顶"
+              },
+              {
+                "id": "D",
+                "text": "只有雨水全部进入地下，才能说明屋顶具有管理效益"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "概括截留、缓释并保留与地下补给的区别。\n\n材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "通过排水、蒸发和植物蒸腾等路径逐步离开"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "概括截留、缓释并保留与地下补给的区别。"
+                },
+                "B": {
+                  "text": "忽略位置与排水路径差别。"
+                },
+                "C": {
+                  "text": "把暂存误作永久封存。"
+                },
+                "D": {
+                  "text": "把一种具体路径强加为所有效益的必要条件。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：EPA《Types of Green Infrastructure》 https://www.epa.gov/green-infrastructure/types-green-infrastructure。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk04-4-r1",
+      "createdAt": 1788880310226,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "标本馆里的土壤档案",
+        "count": 1
+      },
+      "content": {
+        "title": "标本馆里的土壤档案",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "土壤标本馆收藏的材料有不同形态。整段剖面能够显示垂直层次，瓶装和盒装样本则可以作为分析备用或不同分类体系间的参照。中国科学院南京土壤研究所的馆藏介绍显示，来自不同地区和时期的材料集中保存，支持研究者在新的问题下再次比较已有实物。展示又使这些资料进入公共教育：剖面、图片和调查成果帮助观众认识土壤类型、形成与分布，也呈现研究工作的发展。科研使用与社会展示围绕相同自然对象展开，却采用不同的利用方式。一件体积不大、外观不显眼的样本，仍可能因可供分析和比较而长期保存；适合陈列的剖面，则把地面之下的层次直观呈现出来。标本馆既保存可供科研再次使用的实物依据，也将这些依据组织为公众能够接近的知识，让分散在土地中的差异进入可观察、可研究的空间。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "标题选择",
+            "stem": "最适合文段的标题是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "土壤剖面中垂直层次的呈现"
+              },
+              {
+                "id": "B",
+                "text": "馆藏材料与分类比较研究"
+              },
+              {
+                "id": "C",
+                "text": "土壤标本的科研与展示价值"
+              },
+              {
+                "id": "D",
+                "text": "土壤知识走向公众的窗口"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "概括科研再用和公共展示两个主要方面。\n\n材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤标本馆简介》 https://issas.cas.cn/kxcb/trbbg/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "保存可供科研再次使用的实物依据"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "仅一种标本形态及展示作用。"
+                },
+                "B": {
+                  "text": "仅科研用途，遗漏公共教育。"
+                },
+                "C": {
+                  "text": "概括科研再用和公共展示两个主要方面。"
+                },
+                "D": {
+                  "text": "仅面向公众一侧，遗漏分析备用等科研作用。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：中国科学院南京土壤研究所《土壤标本馆简介》 https://issas.cas.cn/kxcb/trbbg/。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk04-5-r1",
+      "createdAt": 1788880310227,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "自然参照与制造差异",
+        "count": 1
+      },
+      "content": {
+        "title": "自然参照与制造差异",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "制造两只钟摆时，即使采用相同图纸，材料和加工也难以在每一处完全一致，节拍还可能随运行条件改变。原子计时提供了另一种共同参照：同类原子具有一致的特征，研究者选择特定能态之间的跃迁，以电磁波探测其响应并调节频率。参照来自自然性质，不再依赖复制某一个独一无二的钟摆。然而，实际探测、控制和计数都要借助装置，频率能被控制到什么程度、信号怎样读出，仍取决于具体实现。统一的物理参照与各台仪器的表现因而分属不同层次，前者为跨设备比较提供共同尺度，后者反映每套系统实现该尺度的质量。原子钟的改进同时发生在对基准的精细利用和工程控制之中。尺度一致仍需通过设备实现，这是自然参照转化为实际测量时的关键一层，也是持续改进计时能力所面对的工作。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "语句理解",
+            "stem": "文中“关键一层”指的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "测量装置实现共同参照时仍可能产生差异"
+              },
+              {
+                "id": "B",
+                "text": "每个同类原子都具有完全不同的固有特征"
+              },
+              {
+                "id": "C",
+                "text": "任何统一尺度都必须依赖一个独一无二的钟摆"
+              },
+              {
+                "id": "D",
+                "text": "自然参照不能用于不同设备之间的比较"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "末段区分尺度与实现，关键是具体装置带来的差别。\n\n材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "实际探测、控制和计数都要借助装置"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "末段区分尺度与实现，关键是具体装置带来的差别。"
+                },
+                "B": {
+                  "text": "与同类原子特征一致相反。"
+                },
+                "C": {
+                  "text": "原子参照正避免这一依赖。"
+                },
+                "D": {
+                  "text": "材料肯定其跨设备比较的作用。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NIST《How Do Atomic Clocks Work?》 https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    },
+    {
+      "id": "reading-20260908-bulk04-6-r1",
+      "createdAt": 1788880310229,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "遗址年代的证据拼接",
+        "count": 5
+      },
+      "content": {
+        "title": "遗址年代的证据拼接",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "考古测年看似是在问一件物品有多老，实际上往往是要确定人们何时在某个地点生活、生产或举行活动。物品制造、进入遗址以及遗址停止使用，可能对应不同时间。美国国家公园管理局的介绍因此把测年描述为逐步收窄活动时间范围的过程。遗存多少、保存状况以及遗址用途，都会影响能够得到怎样的答案。一个看起来精确的年份，只有与要解释的活动建立可靠关系，才具有相应的考古意义。",
+              "历史文献提供了一条途径。旧地图可以指示已经消失的建筑位置，产权或建造记录能够帮助判断使用者与活动时间。即使地面已经看不到明显建筑，文献仍可能为调查提供线索。不过，记录也有遗漏和错误，文献给出的信息需要与现场证据比较。不能因为某张地图标示了房屋，就把它直接理解成房屋在此之前从未存在，或图上没有标记便认定当地从来没有人类活动。记录的存在与记录的完整性，是必须分别考察的问题。",
+              "另一些方法从材料本身提取年代信息。放射性碳测年利用有机遗存中碳同位素的变化，对生物停止与环境交换碳之后的时间作估计。它有适用的材料和年代范围，结果还需要校正。所谓绝对年代，并不表示结论没有误差，而是试图把遗存放入可以表述的时间区间。对于相隔很久的文化阶段，一个区间可能足以区分先后；对于发生很接近的两次活动，同样宽的区间则可能不够。选择方法时，需要让可获得的分辨能力服务于实际问题。",
+              "树轮为保存良好的木材提供另一类记录。在适合树轮测年的地区，研究者比较未知样本与已知年代样本的生长环纹，把相互重叠的序列接起来。这不仅是数出木头有多少圈，而是寻找能够对应到历年的宽窄变化。连续的参照序列和合适的木材保存条件都很重要。即使判断出树木最后生长的年份，也还要考虑人们是否使用了早已死亡的木材，或重新利用旧建筑中的梁木；树木停止生长与建筑建成，并不总是同一事件。",
+              "相对年代则着重建立事物之间的先后关系。在未受扰动的地层序列中，下层通常早于上层；若后来掘坑、搬动或混入材料，简单套用层位规则就可能出错。因此，原位关系是解释物品的重要条件。一片陶片所带来的信息，不仅来自其纹饰，还来自它与其他遗物、堆积和遗迹的位置联系。脱离这些联系，物品也许仍然可以鉴定类型，但据此解释某一层人类活动的能力会下降，漂亮完整与证据完整并不是同一种完整。",
+              "具有明确制造年代的遗物，还能给沉积时间设置界限。例如，一件较晚才开始生产的物品出现在可靠的组合中，该组合的沉积就不可能早于这件物品出现的时间。但物品可以使用多年后才被丢弃，这个界限不能直接化为唯一的沉积年份。多种陶器的类型及制造年代，则能够帮助估计整个组合的时间特征。不同线索有时回答不同层次的问题，研究者需要先分清各自约束什么，才能把它们组合，而不是把所有数字简单求平均。",
+              "考古年代的可信度由证据之间的关联逐步建立。文献说明记录过的活动，实验测量提供材料年代，层位关系限制先后，器物类型补充组合特征。它们能够互相核对，也可能暴露需要重新调查的矛盾。真正有用的结论，应说明样本来自哪里、测得的是什么、如何从材料推到活动，以及还剩多少不确定性。测年因此不是给每件遗物贴上孤立标签，而是在物品、环境和人类行为之间组织可以检验的时间关系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "关于历史文献，下列说法不符合文意的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "旧地图未标某处建筑，足以证明那里此前无人活动"
+              },
+              {
+                "id": "B",
+                "text": "产权记录可能帮助判断建筑使用者"
+              },
+              {
+                "id": "C",
+                "text": "文献可能为地面已消失的建筑提供线索"
+              },
+              {
+                "id": "D",
+                "text": "记录的遗漏和错误使现场核对仍有必要"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "地图未记载不等于实际未发生，选项把缺记当成否定证据。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "记录的存在与记录的完整性，是必须分别考察的问题"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "地图未记载不等于实际未发生，选项把缺记当成否定证据。"
+                },
+                "B": {
+                  "text": "与产权记录提供信息相符。"
+                },
+                "C": {
+                  "text": "第二段明确说明这一用途。"
+                },
+                "D": {
+                  "text": "符合记录不完整的限制。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "概念理解",
+            "stem": "文中的“绝对年代”应理解为：",
+            "options": [
+              {
+                "id": "A",
+                "text": "只建立上下层先后而不涉及时间范围的结论"
+              },
+              {
+                "id": "B",
+                "text": "无须校正即可精确到唯一日期的结果"
+              },
+              {
+                "id": "C",
+                "text": "借助相应方法把遗存定位到可表述的时间区间"
+              },
+              {
+                "id": "D",
+                "text": "不受样本材料与保存条件影响的统一年代"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "第三段给出含义并保留误差。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "试图把遗存放入可以表述的时间区间"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "描述的是相对关系，未概括绝对年代。"
+                },
+                "B": {
+                  "text": "误解绝对一词，取消了校正和区间。"
+                },
+                "C": {
+                  "text": "第三段给出含义并保留误差。"
+                },
+                "D": {
+                  "text": "文段反复保留条件。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "局部推断",
+            "stem": "根据第四段，得知木材最后生长年份后，还应核查：",
+            "options": [
+              {
+                "id": "A",
+                "text": "该木材从停止生长到用于建筑之间是否存在间隔"
+              },
+              {
+                "id": "B",
+                "text": "该建筑的每次修缮是否必然发生在同一年"
+              },
+              {
+                "id": "C",
+                "text": "树轮总数是否能代替一切区域参照序列"
+              },
+              {
+                "id": "D",
+                "text": "所有树种是否都具有同样宽度的年轮"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "旧木使用和梁木再利用都可能造成时间间隔。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "重新利用旧建筑中的梁木"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "旧木使用和梁木再利用都可能造成时间间隔。"
+                },
+                "B": {
+                  "text": "材料没有修缮必然同年的判断。"
+                },
+                "C": {
+                  "text": "文段强调模式比对及参照序列。"
+                },
+                "D": {
+                  "text": "并非材料提出的必要统一条件。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "第五段“证据完整”主要强调：",
+            "options": [
+              {
+                "id": "A",
+                "text": "遗址中的物品都具有较高观赏价值"
+              },
+              {
+                "id": "B",
+                "text": "器物表面没有任何裂缝和残缺"
+              },
+              {
+                "id": "C",
+                "text": "物品的出土位置及其与周围材料的关系得到保存"
+              },
+              {
+                "id": "D",
+                "text": "所有出土物都拥有清晰的制造年份"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "所指是原位关系与关联信息的完整。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "与其他遗物、堆积和遗迹的位置联系"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "观赏价值不是考古关联信息。"
+                },
+                "B": {
+                  "text": "这是外观完整，不是该处强调的信息。"
+                },
+                "C": {
+                  "text": "所指是原位关系与关联信息的完整。"
+                },
+                "D": {
+                  "text": "年代标记不是全部证据完整的定义。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "全文主旨",
+            "stem": "全文主要阐述：",
+            "options": [
+              {
+                "id": "A",
+                "text": "树轮记录与木材使用之间的时间差异"
+              },
+              {
+                "id": "B",
+                "text": "历史文献与现场调查怎样进行核对"
+              },
+              {
+                "id": "C",
+                "text": "地层和器物类型提供相对年代信息的方式"
+              },
+              {
+                "id": "D",
+                "text": "考古测年如何结合不同证据建立活动的时间关系"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "全篇介绍不同证据及其整合，以解释活动时间。\n\n材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。",
+              "evidence": [
+                {
+                  "paragraph": 7,
+                  "quote": "组织可以检验的时间关系"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "仅第四段讨论的问题。"
+                },
+                "B": {
+                  "text": "仅第二段的证据途径。"
+                },
+                "C": {
+                  "text": "仅第五六段的一部分方法。"
+                },
+                "D": {
+                  "text": "全篇介绍不同证据及其整合，以解释活动时间。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reviewNote": "审题规范：QUESTION_STYLE_GUIDE v1.0；风格参考记录 F01–F05。先读取来源正文，再据事实概括改写；保留条件和历史语境；逐题检查选项依据与证据引用。Codex 自我复核，非独立第三方审校，难度未经实测校准。  材料来源（2026-09-08读取）：NPS《How do Archeologists know how old a site is?》 https://www.nps.gov/articles/000/how-do-archeologists-know-how-old-a-site-is.htm；NPS《How Do Archeologists Date Sites and Artifacts?》 https://home.nps.gov/articles/000/how-do-archeologists-date-sites-and-artifacts.htm；NPS《Dendrochronology》 https://home.nps.gov/tont/learn/nature/dendrochronology.htm。材料经概括改写或翻译整合，设问、选项与解析由 Codex 编写；非来源机构或粉笔官方试题。 本轮已复核内容依据、隐藏答案后的重新作答及选项映射；属于同一作者自检。"
+    }
+  ]
+}
