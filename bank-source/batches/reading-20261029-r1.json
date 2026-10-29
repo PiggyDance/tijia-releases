@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20261029-r1",
+  "items": [
+    {
+      "id": "reading-20261029-01-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "生态与测量",
+        "count": 1
+      },
+      "reviewNote": "材料来源：美国国家标准与技术研究院（NIST）《How Do You Measure the Age of a Tree?》https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-age-tree（访问日期2026-10-29；概括生长差异、取芯及交叉定年；不采用页面碳十四段及最老树纪录。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "树干中的年份线索",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "一棵高大的树未必比附近矮小的树年长：树种的生长速度不同，光照和土壤条件也会改变木材积累的快慢。对于生长季节分明地区的树木，季节变化留下的木质条带提供了另一种线索。生长较快时形成的早材颜色较浅，随后形成的晚材较深，树干横截面上便呈现交替的环带。研究者可以用生长锥取出细长木芯，在显微镜或扫描设备下观察，无须为了看见年轮而砍倒整棵活树。不过，单棵树的环数仍可能使定年出现偏差：某些干湿变化会形成类似额外年轮的条带，极干年份又可能缺失年轮。研究者因而将周边多棵树的木芯或截面进行对照，匹配环带的变化序列，把具体环带对应到年份。这样的交叉定年还可以连接不同时期的木材记录，用于研究古老木材和过去的环境变化。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "中心理解",
+            "stem": "这段文字主要说明了：",
+            "options": [
+              {
+                "id": "A",
+                "text": "树木生长环境的差异使树干尺寸失去研究价值"
+              },
+              {
+                "id": "B",
+                "text": "年轮中的环境信息可用于研究过去的气候变化"
+              },
+              {
+                "id": "C",
+                "text": "树龄判断需利用年轮记录，并通过多树对照校正"
+              },
+              {
+                "id": "D",
+                "text": "取芯技术减少了树木损伤，因而解决了年轮缺失问题"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "文段从尺寸判断的局限转入年轮方法，再解释单树计数偏差及交叉定年的处理；C保留了这条方法链。\n材料来源：美国国家标准与技术研究院（NIST）《How Do You Measure the Age of a Tree?》https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-age-tree（访问日期2026-10-29；概括生长差异、取芯及交叉定年；不采用页面碳十四段及最老树纪录。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "单棵树的环数仍可能使定年出现偏差"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "匹配环带的变化序列，把具体环带对应到年份"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "环境差异使尺寸不能直接等同树龄，不意味着尺寸失去研究价值。",
+                  "errorType": "扩大结论"
+                },
+                "B": {
+                  "text": "这是文末提到的真实用途，但文段重点是怎样利用年轮并校正定年偏差，单说气候用途没有覆盖主要方法。",
+                  "errorType": "局部真实但非中心"
+                },
+                "C": {
+                  "text": "同时概括年轮作为依据、对照校正偏差，符合主要论述。"
+                },
+                "D": {
+                  "text": "取芯解决观察活树木材的问题，年轮缺失需另以交叉定年处理。",
+                  "errorType": "作用移接"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261029-02-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "档案与文化",
+        "count": 1
+      },
+      "reviewNote": "材料来源：美国国家档案馆（NARA）《How can I preserve an important edition of a newspaper?》https://www.archives.gov/preservation/holdings-maintenance/newspaper.html（访问日期2026-10-29；概括纸质劣化与不同保存目标，省略温湿度数值。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "旧报纸的两种保存目标",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "旧报纸的字迹仍然清楚，纸张却可能已变得脆弱。新闻纸原本侧重低成本和短期使用，制造时含有较多未经充分纯化的木浆。加工后留下的杂质在光线、高湿度和空气污染物作用下，会促进变色与酸性反应；酸性又使纸纤维减弱、断裂。因此，保存一份报纸，需要先明确看重的是这件实物，还是上面承载的信息。若原件本身具有收藏价值，应尽量提供稳定的保存环境，避光，平放在不会损伤它的硬质盒或文件夹中，必要时用带碱性缓冲的薄纸隔开。覆膜或用压敏胶带粘补，并不是适宜的长期保存方式，破损处理宜交给专业人员。若看重的主要是报道内容，则可把信息复制到更耐久的优质纸上；在通常保存条件下，这类复制件能够比新闻纸存留更久。两种目标对应的处理重点由此有所不同。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "内容推断",
+            "stem": "根据文段，下列做法最符合其保存思路的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "重视报道内容者，可制作耐久纸复制件作为保存信息的载体"
+              },
+              {
+                "id": "B",
+                "text": "重视报纸实物者，可用覆膜代替对存放光照条件的控制"
+              },
+              {
+                "id": "C",
+                "text": "字迹尚清楚的旧报纸，可按纸张尚未劣化安排日常翻阅"
+              },
+              {
+                "id": "D",
+                "text": "使用带缓冲薄纸隔开后，可把破损修补纳入普通粘贴操作"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "区分实物与信息的保存目标后，重在信息时可更换为耐久载体，A正是此路径。\n材料来源：美国国家档案馆（NARA）《How can I preserve an important edition of a newspaper?》https://www.archives.gov/preservation/holdings-maintenance/newspaper.html（访问日期2026-10-29；概括纸质劣化与不同保存目标，省略温湿度数值。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "若看重的主要是报道内容，则可把信息复制到更耐久的优质纸上"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "保存信息不必限于原来的新闻纸，原文明示这一选择。"
+                },
+                "B": {
+                  "text": "原文不推荐覆膜，并要求避光；两者不能替代。",
+                  "errorType": "手段替换"
+                },
+                "C": {
+                  "text": "开头说明字迹清楚可与纸张脆弱并存，不能据清晰程度认定未劣化。",
+                  "errorType": "判断依据错位"
+                },
+                "D": {
+                  "text": "隔纸属于存放保护，不能据此取消专业破损处理的要求。",
+                  "errorType": "条件增补"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261029-03-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "海洋与声学",
+        "count": 1
+      },
+      "reviewNote": "材料来源：美国国家海洋和大气管理局（NOAA）《How far does sound travel in the ocean?》https://oceanservice.noaa.gov/facts/sound.html（访问日期2026-10-29；概括典型深海声道中温度、压力与折射关系，不推广为每片海域同一深度。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "海水深处的声音路径",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "鲸的叫声在海中传播，路径会受到水体条件影响。在一种典型的深海结构中，上层海水随深度增加而变冷，声速也随之减小，声波向下折射。到温度变化剧烈的跃温层下部附近，声速达到较低值。再往深处，水温变化趋缓，而压力继续增大，声速随深度增加转而上升，声波又向上折射。上下两侧声速的不同变化，使部分声波围绕低声速区域反复偏转，这一传播区域称为声道。它有助于声音在较远距离传播而不损失太多能量；布设在适当深度的水听器，因而有机会接收到远处的鲸声或人为噪声。不同海域的跃温层深度并不相同，仪器的位置需要结合水体结构考虑。海水中声音传播速度比空气中快，而声道所体现的则是水温、压力随深度变化对声音路径和远距离传播的影响。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "细节选非",
+            "stem": "下列关于文中声道的理解，不符合文意的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "声速较低区域的上下两侧，可以分别出现方向不同的折射"
+              },
+              {
+                "id": "B",
+                "text": "选择水听器的布设深度，需要考虑所在海域的水体结构"
+              },
+              {
+                "id": "C",
+                "text": "声道有助于较远距离传播，但并不意味着声音毫无能量损失"
+              },
+              {
+                "id": "D",
+                "text": "声道下侧的向上折射，源于水温持续下降使声速继续减小"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "文中下侧水温变化趋缓、压力增大，声速上升，D将上层的降温降速机制移接到了下侧。\n材料来源：美国国家海洋和大气管理局（NOAA）《How far does sound travel in the ocean?》https://oceanservice.noaa.gov/facts/sound.html（访问日期2026-10-29；概括典型深海声道中温度、压力与折射关系，不推广为每片海域同一深度。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "再往深处，水温变化趋缓，而压力继续增大，声速随深度增加转而上升，声波又向上折射"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "上部向下折射、下部向上折射，符合文段。",
+                  "errorType": "符合文意"
+                },
+                "B": {
+                  "text": "不同海域跃温层深度不同，且原文明示位置需结合水体结构。",
+                  "errorType": "符合文意"
+                },
+                "C": {
+                  "text": "“不损失太多”并不等于零损失，此表述成立，不能判为错误。",
+                  "errorType": "符合文意"
+                },
+                "D": {
+                  "text": "下侧声速转而上升，D所述持续降温降速与给定机制矛盾。"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261029-04-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "天文与观察",
+        "count": 1
+      },
+      "reviewNote": "材料来源：美国国家航空航天局（NASA）科学可视化工作室《Moon Essentials: Libration in Longitude》https://svs.gsfc.nasa.gov/5195（访问日期2026-10-29；将动画说明改写成完整文字，虚拟月球明确为演示模型，聚焦经度天平动。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "月面边缘的交替显露",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "月球大致以同一面朝向地球，但连续观测时，月面东、西边缘会交替多露出一条窄窄的地带，看起来像在缓慢摇头。这种经度天平动与自转和公转的配合有关。月球绕自身轴转动的速率近于稳定，沿椭圆轨道绕地球运行的快慢却随距离变化；一个轨道周期内自转一周，并不等于每一小段路程上的两种转动进展都相同。为展示这一差别，可以在动画中放入一颗沿圆轨道匀速运动的虚拟月球，再给它与真实月球设置相同的稳定自转。真实月球经过近地点和远地点附近时，会相对这个参照物领先或落后；从地球指向真实月球的视线，与标示其自转朝向的箭头便形成变化的夹角。这个夹角对应经度天平动。真实月球在不同轨道阶段露出的边缘有所不同，虚拟月球则帮助观者看清匀速自转与变速公转之间的关系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "论证作用",
+            "stem": "动画中加入沿圆轨道匀速运动的虚拟月球，主要是为了：",
+            "options": [
+              {
+                "id": "A",
+                "text": "比较两个月球的距离，推算真实月球表面的地形高度"
+              },
+              {
+                "id": "B",
+                "text": "设置匀速运行的参照，展示真实公转与稳定自转的相对变化"
+              },
+              {
+                "id": "C",
+                "text": "展示月球边缘地带，说明真实月球自转会周期性改变方向"
+              },
+              {
+                "id": "D",
+                "text": "模拟月球的长期轨道，说明椭圆轨道将逐渐过渡为圆轨道"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "虚拟月球保持相同自转而采用匀速圆轨道，提供参照以显示真实轨道快慢引起的相对角度变化。\n材料来源：美国国家航空航天局（NASA）科学可视化工作室《Moon Essentials: Libration in Longitude》https://svs.gsfc.nasa.gov/5195（访问日期2026-10-29；将动画说明改写成完整文字，虚拟月球明确为演示模型，聚焦经度天平动。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "再给它与真实月球设置相同的稳定自转"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "真实月球经过近地点和远地点附近时，会相对这个参照物领先或落后"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "材料没有由模型间距离反推地形高度的过程。",
+                  "errorType": "用途无据"
+                },
+                "B": {
+                  "text": "参照物将稳定自转与变速公转的差异呈现出来，与说明目的相符。"
+                },
+                "C": {
+                  "text": "边缘交替显露是真信息，但其原因并非自转周期性反向。",
+                  "errorType": "因果偷换"
+                },
+                "D": {
+                  "text": "圆轨道是人为设置的比较参照，不是实际轨道未来变化的预测。",
+                  "errorType": "模型误作预测"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261029-05-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "城市与公共生活",
+        "count": 1
+      },
+      "reviewNote": "材料来源：广州市交通运输局《《广州市人民政府办公厅关于推进停车资源错时共享利用的意见》的解读》https://jtj.gz.gov.cn/gkmlpt/content/10/10978/post_10978335.html（访问日期2026-10-29；保留2026年政策部署语境，概括供需调查、契约和信息平台，未将目标写成成效。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "停车泊位的时段安排",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "停车需求集中出现时，一些地方车位紧张，另一些停车场却可能在相应时段闲置。2026年广州有关停车资源错时共享的政策解读，将局部、时段性的供需不匹配列为需要回应的问题。方案要求围绕停车难区域开展供需调查，再按不同场所的使用节律制定具体安排。商业楼宇、医院、住宅小区等场所存在不同的停车潮汐，可以通过划分时段释放闲置泊位；对长期且固定的需求，则引导供需双方建立持续的共享关系，用协议约定权利义务。信息服务也被纳入其中：扩大停车信息平台的联网范围，公布泊位使用情况，并鼓励把查询、预约、支付等功能集成到移动应用中。供需双方的对接还需要社区参与的协商平台。这些安排把停车场的开放时段、使用约定与信息获取连接起来，使既有资源能够更有效地回应不同时间、地点的停车需要。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "中心理解",
+            "stem": "文段所介绍的错时共享思路，核心是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "把车位查询和支付汇集到应用中，以信息服务取代使用协商"
+              },
+              {
+                "id": "B",
+                "text": "根据各类场所统一设定开放时段，以一致规则降低安排难度"
+              },
+              {
+                "id": "C",
+                "text": "面向长期固定需求签订协议，规范持续共享关系中的权利义务"
+              },
+              {
+                "id": "D",
+                "text": "结合需求节律、协商约定与信息对接，提高既有泊位使用效率"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "全文由供需时空不匹配展开，调查时段、协议协商和信息工具共同服务于既有泊位的有效利用，D覆盖主要路径。\n材料来源：广州市交通运输局《《广州市人民政府办公厅关于推进停车资源错时共享利用的意见》的解读》https://jtj.gz.gov.cn/gkmlpt/content/10/10978/post_10978335.html（访问日期2026-10-29；保留2026年政策部署语境，概括供需调查、契约和信息平台，未将目标写成成效。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "方案要求围绕停车难区域开展供需调查，再按不同场所的使用节律制定具体安排"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "这些安排把停车场的开放时段、使用约定与信息获取连接起来"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "功能集成是措施之一，但文段仍要求协商，未主张取代。",
+                  "errorType": "局部措施扩大"
+                },
+                "B": {
+                  "text": "文段按不同场所节律具体安排，不是统一开放时段。",
+                  "errorType": "差异化改为统一"
+                },
+                "C": {
+                  "text": "这项协议安排受文段支持，但仅覆盖长期固定需求，没有概括时段匹配、协商平台与信息连接的整体思路。",
+                  "errorType": "局部真实但概括不全"
+                },
+                "D": {
+                  "text": "保留需求差异、协商约定和信息连接，概括了资源利用机制。"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261029-06-r1",
+      "createdAt": 1793236259123,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "历史与媒介",
+        "count": 5
+      },
+      "reviewNote": "材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。 按命题规范1.3完成同作者自我复核，非独立审校，难度未实测。",
+      "content": {
+        "title": "早期照片的制作与流通",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "十九世纪的摄影史，既是图像变得可记录的历史，也是拍摄和观看方式不断调整的历史。银版照片以细致的影像和有光泽的表面吸引了许多肖像顾客，在当时成为油画肖像之外较便宜的选择。拍摄者让感光的金属版在相机内曝光，形成可供直接观看的图像。不过，被摄者往往要面对强光保持静止一段时间。银版表面的图像又容易受损，成品常被装在玻璃后面，配上金属衬框和保护盒。影像的细节、拍摄时的身体约束以及成品的保存形式，因而一起构成了这种肖像经验。",
+              "与银版形成对照的，是塔尔博特发展的卡罗式摄影。相机先在经过感光处理的纸张上记录负像，再利用这张纸负片在感光纸上印出正像。负像中明暗关系与通常观看的景物相反，转印后得到供观看的正像；负片由此成为制作正片的中间环节。纸纤维会影响图像细节，使所得印相显得柔和。在当时美国市场上，这种柔和调子并未压过人们对银版光泽和细节的偏爱。两种工艺的差别不仅在照片外观，也在图像是直接形成成品，还是经过负片到正片的转换。",
+              "后来采用玻璃作负片载体，可以减轻纸纤维对印相清晰度的影响，但感光材料怎样留在光滑玻璃上，又提出了新的工艺问题。湿版法用火棉胶形成承载感光材料的涂层，玻璃经过处理后送入相机。时间在这里格外紧迫：版材要在仍湿润时曝光，随后赶在涂层干燥前显影。摄影师外出时不只带相机，还要把化学品、玻璃和可供操作的移动暗房一同带上。手工制作和倒出涂液有时会在版材边缘留下痕迹，这些痕迹又成为后来辨认照片工艺的线索。",
+              "摄影的传播效力还取决于观看和复制的办法。1862年，加德纳在安提坦战役后前往现场拍摄，其中许多采用立体摄影：两只镜头同时取得两幅图像，经观看器合成有立体感的视觉经验。照片可进入家庭收藏，也能在画廊展示，让远离现场的人面对战争留下的景象。当时的报纸尚不能直接复制这些照片，却可以刊登依据照片制作的木刻图像。于是，同一次拍摄所记录的景象，经立体照片、展览和木刻等不同形式抵达公众；照片的产生和图像的流通，并不是同一个操作环节。",
+              "约在1879年，明胶干版开始商业供应。它的感光涂层可以预先制备并干燥，曝光后也不必立即显影，摄影师因而不再受湿版那样紧迫的现场处理时间约束。后来柔性胶片逐渐成为重要载体，不过玻璃并未立刻退出所有用途。与胶片相比，玻璃不易发生卷曲、收缩等尺寸变化，这一特点对较大幅面的记录尤其有价值，天文摄影便曾长期使用玻璃版。工艺演变既涉及感光层怎样处理，也涉及承载图像的材料具有何种物理性能。",
+              "留存下来的玻璃影像还面对另一组问题。玻璃虽有较好的尺寸稳定性，搬运和存放不当却会使它开裂；裂损可能带走图像的一部分，造成记录信息缺失，保存环境不佳还可能引起乳剂层剥落。档案机构因此推进玻璃负片和幻灯片的数字化，让更多人通过数字副本查阅，同时减少直接接触脆弱原件的次数。这个环节延续了摄影中载体与图像之间的关系：研究者既要利用影像中的内容，也需要理解留下这些内容的材料和制作过程。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "kind": "细节判断",
+            "stem": "关于前两段所述的摄影工艺，下列说法正确的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "银版保护盒的主要用途是缩短人物曝光所需的时间"
+              },
+              {
+                "id": "B",
+                "text": "纸纤维带来的柔和调子使卡罗式摄影主导了当时美国市场"
+              },
+              {
+                "id": "C",
+                "text": "银版可直接形成观看图像，卡罗式则经纸负片制作正像"
+              },
+              {
+                "id": "D",
+                "text": "卡罗式的纸负片用于保存银版图像，二者属于同一流程"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "前两段分别说明直接形成图像与负正片转换的路径，C对应两者差异。\n材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "形成可供直接观看的图像"
+                },
+                {
+                  "paragraph": 2,
+                  "quote": "再利用这张纸负片在感光纸上印出正像"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "保护盒对应成品防损，不是曝光过程。",
+                  "errorType": "作用移接"
+                },
+                "B": {
+                  "text": "文段反而说柔和调子未压过银版光泽和细节的偏好。",
+                  "errorType": "趋势反转"
+                },
+                "C": {
+                  "text": "准确区分两种工艺的成像路径。"
+                },
+                "D": {
+                  "text": "两者是不同工艺，纸负片并非银版保存步骤。",
+                  "errorType": "流程拼接"
+                }
+              }
+            },
+            "id": "q1",
+            "passageId": "p1"
+          },
+          {
+            "kind": "词句理解",
+            "stem": "第三段说“时间在这里格外紧迫”，直接指的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "曝光与显影要受到涂层保持湿润这一时限约束"
+              },
+              {
+                "id": "B",
+                "text": "倒出涂液与裁切玻璃必须在同一时刻完成"
+              },
+              {
+                "id": "C",
+                "text": "摄影师要在被摄者保持静止的间隙里装好保护盒"
+              },
+              {
+                "id": "D",
+                "text": "玻璃负片必须在曝光之前完成正片的转印"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "“这里”承接湿版处理，下一句明确曝光时仍湿润且干燥前显影，A概括操作窗口。\n材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "版材要在仍湿润时曝光，随后赶在涂层干燥前显影"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "同时覆盖曝光和显影的湿润时限，符合所指。"
+                },
+                "B": {
+                  "text": "没有同时完成倒液与裁切的要求。",
+                  "errorType": "操作关系无据"
+                },
+                "C": {
+                  "text": "把首段拍摄与成品包装移入湿版时限，且没有此间隙操作要求。",
+                  "errorType": "场景移接"
+                },
+                "D": {
+                  "text": "转印在这里不是曝光之前须完成的任务，文段没有此倒置关系。",
+                  "errorType": "次序倒置"
+                }
+              }
+            },
+            "id": "q2",
+            "passageId": "p1"
+          },
+          {
+            "kind": "论证作用",
+            "stem": "第四段提到报纸刊登依据照片制作的木刻，主要说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "立体观看器通过木刻转印产生图像的深度感"
+              },
+              {
+                "id": "B",
+                "text": "报纸读者比画廊观众更容易辨认湿版制作痕迹"
+              },
+              {
+                "id": "C",
+                "text": "照片的图像流通可以经过另一种媒介形式完成"
+              },
+              {
+                "id": "D",
+                "text": "木刻能减少摄影师在现场调配化学品的时间"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "该例位于多种观看与传播形式之中，照片经木刻进入报纸，说明记录与传播可通过不同环节完成。\n材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "当时的报纸尚不能直接复制这些照片，却可以刊登依据照片制作的木刻图像"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "立体感来自双镜头图像与观看器，不是木刻转印。",
+                  "errorType": "机制移接"
+                },
+                "B": {
+                  "text": "文段未比较两类观众辨认工艺的能力。",
+                  "errorType": "比较无据"
+                },
+                "C": {
+                  "text": "木刻承担了报纸中的传播，是例子支持的环节转换。"
+                },
+                "D": {
+                  "text": "木刻属于拍摄后的传播，与现场感光操作时间无此关系。",
+                  "errorType": "环节错位"
+                }
+              }
+            },
+            "id": "q3",
+            "passageId": "p1"
+          },
+          {
+            "kind": "内容推断",
+            "stem": "结合第三、五段，明胶干版相对湿版所带来的变化是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "把现场处理的时限转移为拍摄后立即转印正片的时限"
+              },
+              {
+                "id": "B",
+                "text": "使玻璃载体在拍摄过程中不再需要保持尺寸稳定"
+              },
+              {
+                "id": "C",
+                "text": "将玻璃负片改成直接观看的金属正像以省去显影"
+              },
+              {
+                "id": "D",
+                "text": "曝光后可以稍后显影，不必因湿润时限而随拍随处理"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "湿版需要在干燥前显影，干版可在曝光后稍后处理；改变的是两项操作的时间联结，不是取消显影或更换为金属。\n材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "随后赶在涂层干燥前显影"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "曝光后也不必立即显影"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "原文未增加立即转印的时限。",
+                  "errorType": "新条件无据"
+                },
+                "B": {
+                  "text": "干版改变感光层处理方式，未取消尺寸稳定的价值。",
+                  "errorType": "属性关系偷换"
+                },
+                "C": {
+                  "text": "没有改为金属正像，也没有省去显影。",
+                  "errorType": "工艺拼接"
+                },
+                "D": {
+                  "text": "湿版须保持湿润并及时显影，干版曝光后不必立即显影，故可分开安排这两个环节。"
+                }
+              }
+            },
+            "id": "q4",
+            "passageId": "p1"
+          },
+          {
+            "kind": "细节选非",
+            "stem": "依据第五、六段，下列说法不符合文意的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "玻璃版能较好保持尺寸，故通常可以承受搬运中的机械损伤"
+              },
+              {
+                "id": "B",
+                "text": "玻璃版发生裂损时，既可能损害外观，也可能损失记录信息"
+              },
+              {
+                "id": "C",
+                "text": "数字化能扩大影像利用，同时减少人们直接接触原件的次数"
+              },
+              {
+                "id": "D",
+                "text": "评价玻璃载体时，尺寸稳定性与破裂风险需要分别考虑"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "尺寸稳定说的是不易卷曲收缩，不能推成抗机械损伤；第六段明确搬运不当会开裂，A跨越了属性边界。\n材料来源：美国国会图书馆《Pre-Civil War Photographic Technologies: The Calotype and Daguerreotype》https://blogs.loc.gov/teachers/2018/09/pre-civil-war-photographic-technologies-the-calotype-and-daguerreotype/（访问日期2026-10-29；提取银版肖像及卡罗式负正片关系，不采用“最早摄影”绝对断言。）；西澳大利亚博物馆《Photographic Processes》https://manual.museum.wa.gov.au/conservation-and-care-collections-2017/photographs/photographic-processes/index.html（访问日期2026-10-29；仅概括银版保护、纸纤维影响细节及玻璃负片清晰度，未复制工艺手册。）；美国国家档案馆（NARA）《Glass Holdings in the Still Picture Branch》https://www.archives.gov/research/still-pictures/still-picture-glass-holdings（访问日期2026-10-29；概括湿版时限、干版与玻璃长期使用、脆弱性及数字化，不使用馆藏总量。）；美国国家公园管理局（NPS）《Photography at Antietam》https://www.nps.gov/anti/learn/historyculture/photography.htm（访问日期2026-10-29；采用1862年加德纳拍摄、立体观看和报刊木刻传播，不采用最早战争影像等绝对说法。）。材料经过概括改写或翻译整合，设问、选项及解析由Codex编写；来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "玻璃不易发生卷曲、收缩等尺寸变化"
+                },
+                {
+                  "paragraph": 6,
+                  "quote": "搬运和存放不当却会使它开裂"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "尺寸稳定不能推出抗损伤，第六段给出相反风险。"
+                },
+                "B": {
+                  "text": "裂损带走部分图像，会造成信息缺失，表述成立。",
+                  "errorType": "符合文意"
+                },
+                "C": {
+                  "text": "原文明示扩大数字查阅并减少原件接触，两层都成立。",
+                  "errorType": "符合文意"
+                },
+                "D": {
+                  "text": "两项属性并存，需分别考察，符合段落的对照。",
+                  "errorType": "符合文意"
+                }
+              }
+            },
+            "id": "q5",
+            "passageId": "p1"
+          }
+        ]
+      }
+    }
+  ]
+}
