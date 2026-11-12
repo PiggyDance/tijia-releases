@@ -1,0 +1,712 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20261112-r1",
+  "items": [
+    {
+      "id": "reading-20261112-01-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "历史街区的修缮与使用",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】住房城乡建设部办公厅、国家发展改革委办公厅《历史文化名城和街区等保护提升项目建设指南（试行）》 https://app.www.gov.cn/govdata/gov/202402/25/512334/article.html（访问日期：2026-11-12）。概括2024年公开文件中的保护、修缮与适应性利用原则，保留历史年份。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "历史街区的修缮与使用",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "历史街区的保护提升，既涉及老建筑，也涉及街巷格局和居民生活。2024年印发的相关建设指南，将延续文脉、合理利用与改善民生等纳入同一组原则。它所要求的保护，并不是把建筑修好后长期闲置，而是在延续价值要素的基础上改善使用条件。对于体现历史文化价值的墙体、门窗、结构和装饰，应沿用相应的原材料、原工艺、原形制、原结构加以维护；对有损价值要素的不当遮挡和后期加建，则可拆除并恢复原状。内部空间的适应性改造也须符合保护要求。街区层面的提升，同样强调延续原有格局、避免大规模强制搬迁，维护人与地方文化的联系。必要的公共服务设施和基础设施，可以结合符合规划的空闲地进行小尺度织补，使使用功能的完善与历史环境相衔接。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "这段文字主要说明，历史街区的保护提升应：",
+            "options": [
+              {
+                "id": "A",
+                "text": "对体现历史文化价值的建筑部件，沿用相应的传统方式维护"
+              },
+              {
+                "id": "B",
+                "text": "先恢复历史建筑原状，再逐步退出原有居民生活功能"
+              },
+              {
+                "id": "C",
+                "text": "通过织补公共设施，逐步用新建筑替换难以维护的老建筑"
+              },
+              {
+                "id": "D",
+                "text": "延续历史价值与空间联系，并在保护要求下改善使用"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "论述同时覆盖建筑价值要素、使用条件和街区的空间社会联系。C保留了保护与利用的关系，A缩为外观先行，B、D则改变保护方向。\n\n【来源与改编】住房城乡建设部办公厅、国家发展改革委办公厅《历史文化名城和街区等保护提升项目建设指南（试行）》 https://app.www.gov.cn/govdata/gov/202402/25/512334/article.html（访问日期：2026-11-12）。概括2024年公开文件中的保护、修缮与适应性利用原则，保留历史年份。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "而是在延续价值要素的基础上改善使用条件"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "街区层面的提升，同样强调延续原有格局、避免大规模强制搬迁，维护人与地方文化的联系。"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "局部真实但非中心：这是文中明确的部件修缮要求，但没有覆盖使用改善及街区生活联系，不能概括全段。",
+                  "errorType": "局部真实但非中心"
+                },
+                "B": {
+                  "text": "方向相反：保留居民生活联系而非退出生活功能。",
+                  "errorType": "方向相反"
+                },
+                "C": {
+                  "text": "目的替换：织补是完善必要设施，不是逐步替换老建筑。",
+                  "errorType": "目的替换"
+                },
+                "D": {
+                  "text": "正确：涵盖价值、空间社会联系与符合保护要求的使用改善。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261112-02-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "求职行为的统计口径",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国劳工统计局 BLS《Concepts and Definitions (CPS)》 https://www.bls.gov/cps/definitions.htm（访问日期：2026-11-12）。概括失业分类、主动求职及临时解雇例外；选项情境为自编假设。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "求职行为的统计口径",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "在美国当前人口调查中，失业分类不直接取决于一个人是否领取失业保险金。通常，要被列入失业者，须在调查参考周没有就业、能够工作，并在截至该周的四周内至少采取过一次具体的主动求职行动；暂时生病有相应例外。主动求职包括投递简历、参加面试或直接联系雇主。单纯浏览招聘信息、参加培训而未进一步行动，则属于被动方式，因为还需采取其他步骤，才可能获得工作机会。另有一类人因临时解雇而等待召回，即使近期未求职，也可能列入失业者。统计还会对未列入劳动力的人询问工作意愿和过去的求职经历，进一步识别不同群体。因此，求职愿望、求职行动与调查中的分类分别有其位置，几个人同样没有工作，在这些条件上的差异仍可能使他们归入不同组别。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "内容推断",
+            "stem": "假定下列人员均属于该调查对象，参考周未就业且能够工作。根据文段，哪项判断成立？",
+            "options": [
+              {
+                "id": "A",
+                "text": "乙近四周曾向雇主投递简历，其未领取保险金不妨碍按条件归为失业者"
+              },
+              {
+                "id": "B",
+                "text": "甲近四周只浏览招聘信息，因浏览频繁可认定采取了主动求职"
+              },
+              {
+                "id": "C",
+                "text": "丙参加培训但未进一步求职，只要希望就业便满足主动求职条件"
+              },
+              {
+                "id": "D",
+                "text": "丁因临时解雇等待召回，只有补做面试才可能列入失业者"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "共同前提给定未就业和能够工作，乙又有四周内投递简历的主动行动，符合一般条件；保险领取不是分类依据。\n\n【来源与改编】美国劳工统计局 BLS《Concepts and Definitions (CPS)》 https://www.bls.gov/cps/definitions.htm（访问日期：2026-11-12）。概括失业分类、主动求职及临时解雇例外；选项情境为自编假设。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "失业分类不直接取决于一个人是否领取失业保险金"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "主动求职包括投递简历、参加面试或直接联系雇主。"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：完整满足已述一般条件，保险领取与分类不直接挂钩。"
+                },
+                "B": {
+                  "text": "标准替换：频繁浏览仍未构成进一步行动，频率不能替代行动性质。",
+                  "errorType": "标准替换"
+                },
+                "C": {
+                  "text": "意愿替代行动：希望工作和参加培训不等于采取主动求职行动。",
+                  "errorType": "意愿替代行动"
+                },
+                "D": {
+                  "text": "遗漏例外：临时解雇等待召回者即使未求职也可能列入，面试不是此情境的必要条件。",
+                  "errorType": "遗漏例外"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261112-03-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "实验室里的参考材料",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国国家标准与技术研究院 NIST《Reference materials》 https://www.nist.gov/reference-materials（访问日期：2026-11-12）。概括三类材料在赋值、认证和用途上的区别。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "实验室里的参考材料",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "从水泥到食品，实验室面对的测量对象各不相同，参考材料则为测量和结果比较提供共同依据。美国国家标准与技术研究院区分几类材料：标准参考物质经过充分测量与表征，其特性值和相应不确定度有认证文件支持；参考材料也给出测量值及不确定度估计，但这些数值未经同样的认证。还有一类研究级试验材料，通常不附测量值，而是分发给不同实验室，由各自测量后比较结果。后者强调“足以满足预定用途”，这并不是说材料无需说明，随附信息仍会交代其在实验室间比较中的使用目的。几类材料提供的信息形式因而有所不同：有的给出经认证的特性值，有的提供非认证值，有的则为共同开展测量比较提供对象。理解这些材料，需要同时看它附带什么信息，以及这些信息服务于怎样的工作。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "研究级试验材料所强调的“足以满足预定用途”，在本文中主要指：",
+            "options": [
+              {
+                "id": "A",
+                "text": "提供已有认证值，便于各实验室按该值调整测量结果"
+              },
+              {
+                "id": "B",
+                "text": "提供非认证数值，作为各实验室共同使用的结果判定线"
+              },
+              {
+                "id": "C",
+                "text": "提供共同测量对象，支持不同实验室开展结果比较"
+              },
+              {
+                "id": "D",
+                "text": "提供通用物质，使不同测量项目采用相同的不确定度"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "指代对象是研究级试验材料，其用途是分发给不同实验室测量并比对，不是前两类材料的赋值方式。\n\n【来源与改编】美国国家标准与技术研究院 NIST《Reference materials》 https://www.nist.gov/reference-materials（访问日期：2026-11-12）。概括三类材料在赋值、认证和用途上的区别。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "通常不附测量值，而是分发给不同实验室，由各自测量后比较结果"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "随附信息仍会交代其在实验室间比较中的使用目的"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "对象移接：经认证特性值属于前述标准参考物质的特点。",
+                  "errorType": "对象移接"
+                },
+                "B": {
+                  "text": "对象移接：非认证数值属于另一类材料，且材料未赋予统一判定线功能。",
+                  "errorType": "对象移接"
+                },
+                "C": {
+                  "text": "正确：对应分发、各自测量和比较结果的具体用途。"
+                },
+                "D": {
+                  "text": "无据推断：未提出跨项目使用相同不确定度。",
+                  "errorType": "无据推断"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261112-04-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "雷达图像中的彩色条纹",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】欧洲空间局 ESA《Sentinel-1C demonstrates power to map land deformation》 https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-1/sentinel-1c-demonstrates-power-to-map-land-deformation（访问日期：2026-11-12）。概括2025年2月13日报道的调试期结果，保留图像显示地形和大气贡献的限定。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "雷达图像中的彩色条纹",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "雷达影像不仅包含回波强弱的信息，还包含相位信息。将同一地区在不同时间获取的影像组合，经过干涉处理，可以研究地表位移。不过，一幅彩色干涉图所呈现的具体信号，还须结合采集与处理情境解释。欧洲空间局在2025年2月报道哨兵一号C星的早期结果时，展示了智利北部的两组干涉图：一组组合了A星与C星相隔一天获取的数据，另一组使用C星相隔十二天的数据。当时C星仍处于调试阶段。这些鲜艳条纹主要显示干燥沙漠的地形以及部分大气影响，并非在展示当地发生了地表变形；该区域被用于雷达校准。跨星组合的结果所证明的，是两颗卫星的数据能够开展联合干涉分析，以及仪器的定时同步和稳定性。未来研究地表变化所需的观测能力，正是在这样的验证中得到检验。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "论证作用",
+            "stem": "文中介绍两组早期干涉图，主要用来说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "相隔一天的地形变化可由相隔十二天的影像加以验证"
+              },
+              {
+                "id": "B",
+                "text": "跨星组合比单星重复观测更适合测量沙漠的地表位移"
+              },
+              {
+                "id": "C",
+                "text": "地形和大气信号也可在调试中用于检验雷达及数据组合能力"
+              },
+              {
+                "id": "D",
+                "text": "彩色条纹比回波强弱信息更能证明当地正在发生地表变形"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "题干问这两组具体图像的意义，不能将干涉技术的一般用途当成这次图像已经显示的事实。图像用于校准和验证跨星分析能力。\n\n【来源与改编】欧洲空间局 ESA《Sentinel-1C demonstrates power to map land deformation》 https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-1/sentinel-1c-demonstrates-power-to-map-land-deformation（访问日期：2026-11-12）。概括2025年2月13日报道的调试期结果，保留图像显示地形和大气贡献的限定。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "这些鲜艳条纹主要显示干燥沙漠的地形以及部分大气影响"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "该区域被用于雷达校准"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "两颗卫星的数据能够开展联合干涉分析，以及仪器的定时同步和稳定性"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "关系虚构：两组图不是所述短期地形变化与验证的关系。",
+                  "errorType": "关系虚构"
+                },
+                "B": {
+                  "text": "无据比较：两种组合均有展示，但没有优劣比较。",
+                  "errorType": "无据比较"
+                },
+                "C": {
+                  "text": "正确：覆盖具体信号、调试用途及组合能力检验。"
+                },
+                "D": {
+                  "text": "与文意相反：材料明确这些条纹并非展示当地地表变形。",
+                  "errorType": "与文意相反"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261112-05-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "种子试验中的未发芽部分",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国农业部自然资源保护局 USDA NRCS《A Guide to Conservation Plantings on Critical Areas for the Northeast》 https://www.nrcs.usda.gov/plantmaterials/nypmspu11417.pdf（访问日期：2026-11-12）。依据Seed Dormancy and Hard Seed及Germination Test部分改写，省略操作剂量及法规阈值。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "种子试验中的未发芽部分",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "在规定实验室程序下进行的发芽试验，考察一批种子形成正常幼苗的能力。试验结束时，没有发芽的部分却未必处于同一种状态。休眠种子仍有活力，只是在本次试验中未发芽；其中，某些种子因种皮不透水而保持坚硬，吸水过程受到阻碍，常被单独列为硬实种子。对未发芽的种子，还可通过后续程序识别休眠或硬实部分，并在报告中分别列示。休眠种子以后可能萌发，也可能未能长成植株。与此同时，有些标准试验允许先作解除休眠的处理，这可能使报告中的发芽比例高于未经预处理时的结果。观察一批种子的试验表现，既要辨认未发芽部分的状态，也要了解试验前采用了哪些处理。若要把两份发芽报告用于比较，________。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "语句填空",
+            "stem": "填入横线处最恰当的一项是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "宜以两份报告中休眠种子的比例，代替其正常幼苗比例"
+              },
+              {
+                "id": "B",
+                "text": "还应核对预处理条件，并结合休眠或硬实部分理解结果"
+              },
+              {
+                "id": "C",
+                "text": "可把未发芽种子一并扣除，再据剩余种子确定批次活力"
+              },
+              {
+                "id": "D",
+                "text": "应以发芽比例的高低，判断两批种子今后长成植株的先后"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "前文两条线分别是未发芽种子的状态及预处理对比例的影响，收束比较报告时须同时照顾二者。C不把试验表现外推为未来生长次序。\n\n【来源与改编】美国农业部自然资源保护局 USDA NRCS《A Guide to Conservation Plantings on Critical Areas for the Northeast》 https://www.nrcs.usda.gov/plantmaterials/nypmspu11417.pdf（访问日期：2026-11-12）。依据Seed Dormancy and Hard Seed及Germination Test部分改写，省略操作剂量及法规阈值。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "对未发芽的种子，还可通过后续程序识别休眠或硬实部分，并在报告中分别列示"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "这可能使报告中的发芽比例高于未经预处理时的结果"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "指标替换：休眠与形成正常幼苗的比例各有含义，不能相互替代。",
+                  "errorType": "指标替换"
+                },
+                "B": {
+                  "text": "正确：承接状态区分与处理条件两条线索。"
+                },
+                "C": {
+                  "text": "对象混同：未发芽中存在仍有活力的休眠种子，统一扣除会丢失该信息。",
+                  "errorType": "对象混同"
+                },
+                "D": {
+                  "text": "无据外推：试验发芽比例不能给出今后长成植株的先后顺序。",
+                  "errorType": "无据外推"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261112-06-r1",
+      "createdAt": 1794454674460,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "网站改版前后的记录",
+        "count": 5
+      },
+      "reviewNote": "【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "网站改版前后的记录",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "网页承载着公共事件、机构活动与文化表达，它们又会随着更新而改变。美国国会图书馆的网页收集政策，试图为未来研究者保留组织和个人在特定时点呈现的内容，以及文字等信息被网页组织和展示的方式。收集目标涉及使用体验，但其实现受到采集工具能力的限制。面对庞大的网络规模、部分内容短暂的存续时间及有限资源，该馆依照主题政策和收集重点选择对象，建设具有代表性的专题收藏。有价值而又不适合纳入已有专题的少量网站，也可通过单站点机制收集。选择性并非对目标的背离，而是这一收藏安排本身的组成部分。",
+              "网站留下的记录，比访问者眼前的页面更丰富。美国国家档案馆2005年的指南把相关信息区分为内容、背景和结构。内容包括页面本身、引用的附加文件及用户交互形成的内容；背景包括网站管理过程中需要或产生的行政与技术记录；结构则涉及页面如何组织，以及相应的站点地图和内容管理系统配置。保留这些联系，是为了让日后的使用者能把网站与产生它的业务活动相连接。页面文字即便完整，若无法说明它在什么业务过程中形成、怎样与其他页面关联，后人对这份记录的理解仍可能受限。",
+              "保存网站有不同方法。新西兰档案馆介绍的网络采集，是由工具有序获取整个网站或指定部分，形成已知时点的快照。它可能保留页面外观和信息所处的展示语境，却把原本动态或个性化的信息固定为静态版本；内网页面、受保护内容或放在其他服务器上的多媒体，也未必被捕获。事务日志记录的则是新建页面、发布内容、提交表单等动作，通常保存为数据库记录或文本文件。它能留下原始动作信息，但展示语境又容易丢失。网站准备大幅改版或停用时，哪些资料需要保留、现有系统能提供什么，因而需要事先评估。",
+              "采集过程本身也会留下理解档案所需的信息。美国国会图书馆关于网页保存质量的说明，要求记录采集的日期与情境，以支持未来分析和研究；相关记录还可以包括怎样向网站发出请求，以及收到怎样的响应。保存格式能够容纳内容本体、控制信息和与内容关联的元数据，后者可以描述语言、编码等属性。对于研究者来说，打开页面、沿链接阅读，与知道这一份页面是怎样取得的，是相互联系的使用需求。图像或声音能否在档案中呈现，还取决于采集工具当时是否成功获取了这些组成部分。",
+              "当记录从旧系统迁往新系统，工作也不止于搬走页面文件。新西兰档案馆的管理说明提出，应同时保留所需元数据和使记录完整的相关信息，如版本与其他事务；原有链接或指向要继续有效，或提供找到记录的新办法。系统变化可能改变页面的外观、交互感受或背景，这些将改变的信息应作为记录的一部分先行捕获。迁移的规划与测试要检验信息能否继续访问，系统日常维护也要关注平台支持、硬件及实际可读取状态。故障恢复计划用于应对损失事件和恢复数据，而长期记录管理还承担识别、描述、控制和持续保存等任务。网站改版可以改变今后的呈现方式，旧记录的可理解性却需要在这一变化中延续。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "内容推断",
+            "stem": "根据第一段，最能解释该馆采取选择性网页收集的理由是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "网页的研究价值需要先经专题归类，未归类的内容不宜保存"
+              },
+              {
+                "id": "B",
+                "text": "保留页面使用体验主要取决于收集数量而非工具能力"
+              },
+              {
+                "id": "C",
+                "text": "优先把专题收集资源用于已能完整重现交互的网站"
+              },
+              {
+                "id": "D",
+                "text": "网络规模、内容存续时间与资源条件共同影响收集安排"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "第一段直接把网络规模、短暂存续和有限资源作为界定收集重点的背景，同时保留单站点机制。\n\n【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "面对庞大的网络规模、部分内容短暂的存续时间及有限资源"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "依照主题政策和收集重点选择对象"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "与文意相反：有价值而不适合已有专题的网站仍可单站点收集，归类不是价值成立前提。",
+                  "errorType": "与文意相反"
+                },
+                "B": {
+                  "text": "与文意相反：使用体验的保留受工具能力限制，文中未归因于数量。",
+                  "errorType": "与文意相反"
+                },
+                "C": {
+                  "text": "无据优先级：技术限制被承认，但文中未把完整重现交互设为收集优先标准。",
+                  "errorType": "无据优先级"
+                },
+                "D": {
+                  "text": "正确：对应选择安排的三项背景约束。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "第二段所说的“背景”，最适宜用下列哪项来举例？",
+            "options": [
+              {
+                "id": "A",
+                "text": "网站某栏目对公众发布的通知全文"
+              },
+              {
+                "id": "B",
+                "text": "网站管理过程中形成的行政审批和技术维护记录"
+              },
+              {
+                "id": "C",
+                "text": "设置栏目层级的内容管理系统配置文件"
+              },
+              {
+                "id": "D",
+                "text": "显示各栏目与子页面层级的站点地图"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "背景指网站管理所需或产生的行政技术记录；A是内容，B、C在文中属于结构信息。D为根据定义自编的例子。\n\n【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "背景包括网站管理过程中需要或产生的行政与技术记录"
+                },
+                {
+                  "paragraph": 2,
+                  "quote": "结构则涉及页面如何组织，以及相应的站点地图和内容管理系统配置"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "对象移接：通知全文是页面内容，不是此处管理背景记录。",
+                  "errorType": "对象移接"
+                },
+                "B": {
+                  "text": "正确：行政审批与维护记录体现网站管理的行政和技术活动。"
+                },
+                "C": {
+                  "text": "对象移接：此处用于设置栏目结构的系统配置对应结构信息。",
+                  "errorType": "对象移接"
+                },
+                "D": {
+                  "text": "对象移接：站点地图在此区分中用于说明结构。",
+                  "errorType": "对象移接"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "下列关于第三段两类保存方法的理解，与文意不符的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "快照保留页面外观时，也就相应保留了按用户变化的交互过程"
+              },
+              {
+                "id": "B",
+                "text": "网络采集可能覆盖整个网站，也可能只针对指定部分"
+              },
+              {
+                "id": "C",
+                "text": "日志能记录发布或提交动作，却可能丢失其展示语境"
+              },
+              {
+                "id": "D",
+                "text": "网站大幅改版前，需要评估保留资料与系统能力"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "快照可能保留外观却将动态或个性化信息固定为静态版本，因此外观保存不蕴含交互过程也被保存。\n\n【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "它可能保留页面外观和信息所处的展示语境，却把原本动态或个性化的信息固定为静态版本"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "与文意不符：将外观保留错误地推成个性化交互过程也保留。"
+                },
+                "B": {
+                  "text": "符合文意：对应整个网站或指定部分的范围。",
+                  "errorType": "符合文意"
+                },
+                "C": {
+                  "text": "符合文意：对应日志的原始动作信息与语境易失。",
+                  "errorType": "符合文意"
+                },
+                "D": {
+                  "text": "符合文意：对应第三段末尾的事先评估要求。",
+                  "errorType": "符合文意"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "信息缺失",
+            "stem": "第四段谈到采集及保存信息时，没有提及的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "采集发生的日期和具体情境"
+              },
+              {
+                "id": "B",
+                "text": "向网站发出的请求和收到的响应"
+              },
+              {
+                "id": "C",
+                "text": "与内容关联的语言、编码等属性"
+              },
+              {
+                "id": "D",
+                "text": "每份网页档案应适用的固定保存年限"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "将检索范围限定为第四段：日期情境、请求响应及元数据属性均明确出现，未说明固定保存年限。没有提及不等于实践中不存在相关安排。\n\n【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "要求记录采集的日期与情境"
+                },
+                {
+                  "paragraph": 4,
+                  "quote": "包括怎样向网站发出请求，以及收到怎样的响应"
+                },
+                {
+                  "paragraph": 4,
+                  "quote": "后者可以描述语言、编码等属性"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "已提及：对应采集日期与情境。",
+                  "errorType": "已提及"
+                },
+                "B": {
+                  "text": "已提及：对应请求及响应记录。",
+                  "errorType": "已提及"
+                },
+                "C": {
+                  "text": "已提及：明确举出语言和编码属性。",
+                  "errorType": "已提及"
+                },
+                "D": {
+                  "text": "正确：该段没有给出固定保存年限。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "跨段理解",
+            "stem": "结合第三、第五段，若旧网站迁移后外观和交互方式将发生变化，最符合文意的做法是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "以新系统能打开页面为验收重点，旧有呈现方式随新版同步调整"
+              },
+              {
+                "id": "B",
+                "text": "以事务日志代替旧页面语境，将历次操作记录直接作为旧站快照"
+              },
+              {
+                "id": "C",
+                "text": "先捕获将改变的呈现与背景，随记录迁移相关信息并测试访问"
+              },
+              {
+                "id": "D",
+                "text": "先按新版样式重绘旧页面，再将重绘结果登记为原时点呈现"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "第三段指出快照与日志保留的信息不相同，第五段要求先捕获将改变的信息并维护相关记录和访问；B保留了这一连续性。\n\n【来源与改编】美国国会图书馆 LOC《Collections Policy Statement Supplementary Guidelines: Web Archiving》 https://wwws.loc.gov/acq/devpol/webarchive.pdf（访问日期：2026-11-12）。第一段概括选择性收集目标；没有使用读取失败的FAQ正文。；美国国家档案馆 NARA《NARA Guidance on Managing Web Records》 https://www.archives.gov/records-mgmt/policy/managing-web-records.html（访问日期：2026-11-12）。第二段概括2005年指南的内容、背景、结构区分，保留历史语境。；新西兰档案馆 Archives New Zealand《Web archiving》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/web-archiving（访问日期：2026-11-12）。第三段概括快照与日志的互补特点，不外推该国法规。；美国国会图书馆 LOC《Quality and Functionality Factors for Archived Web Sites and Pages》 https://www.loc.gov/preservation/digital/formats/content/webarch_quality.shtml（访问日期：2026-11-12）。第四段概括采集语境和请求响应记录，不复制标准条文。；新西兰档案馆 Archives New Zealand《Managing websites as records》 https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/managing-websites-as-records（访问日期：2026-11-12）。第五段概括迁移、元数据及持续可访问性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "它能留下原始动作信息，但展示语境又容易丢失"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "这些将改变的信息应作为记录的一部分先行捕获"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "迁移的规划与测试要检验信息能否继续访问"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "信息遗漏：仅能打开及随新版调整会遗漏原呈现与背景的保留要求。",
+                  "errorType": "信息遗漏"
+                },
+                "B": {
+                  "text": "方法混同：日志可能丢失展示语境，不能直接充作旧站快照。",
+                  "errorType": "方法混同"
+                },
+                "C": {
+                  "text": "正确：涵盖先捕获、关联迁移及访问测试三个环节。"
+                },
+                "D": {
+                  "text": "时间错置：新版重绘不能当作原时点实际呈现来登记。",
+                  "errorType": "时间错置"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
