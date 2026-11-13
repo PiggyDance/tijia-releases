@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20261113-r1",
+  "items": [
+    {
+      "id": "reading-20261113-01-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "手艺成品与日常生活",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】文化和旅游部网站（转载人民日报，作者项兆伦）《非遗保护要见人见物见生活》 https://www.mct.gov.cn/preview/special/8640/8642/201806/t20180606_833165.htm（访问日期：2026-11-13）。据2018年评论概括实物、传承实践和生活联系；青瓷、烤馕及年画均为来源所用对象，不新增案例。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "手艺成品与日常生活",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "一件传统工艺品可以被收藏，一门手艺却还要有人学习、运用和传下去。非物质文化遗产所承载的文化关系，往往比眼前的实物更宽。以龙泉青瓷为例，成品凝结着烧制技艺和审美，但这一文化传统还包括制作者的创造性实践，以及人们欣赏青瓷的方式。制作和分享烤馕的文化也如此：馕既是手艺的产物，又是亲友、邻里分享食物的媒介。若把保护的对象缩成一件瓷器或一种食品，便会把使它们具有文化意义的活动留在视野之外。年画同样联系着制作、张贴和过年的生活；即使仍有人绘制，如果它逐渐退出百姓的春节、主要进入少数人的收藏，原有的文化实践仍可能衰弱。因此，非遗保护需要维护传承者开展实践的能力和环境，让人们有机会继续参与，并在生活中运用自己的智慧与创造力。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心理解",
+            "stem": "这段文字主要强调：",
+            "options": [
+              {
+                "id": "A",
+                "text": "传统工艺成品能够集中呈现传承者的技艺与审美"
+              },
+              {
+                "id": "B",
+                "text": "传统文化回归日常生活，需要减少实物收藏活动"
+              },
+              {
+                "id": "C",
+                "text": "非遗传承应以满足当代消费者的审美需求为重心"
+              },
+              {
+                "id": "D",
+                "text": "非遗保护要延续人的实践及其与日常生活的联系"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "文段以青瓷、烤馕和年画说明实物与文化实践的关系，最终落在人的参与、能力和环境。D概括了这一贯穿各例的关系。\n\n【来源与改编】文化和旅游部网站（转载人民日报，作者项兆伦）《非遗保护要见人见物见生活》 https://www.mct.gov.cn/preview/special/8640/8642/201806/t20180606_833165.htm（访问日期：2026-11-13）。据2018年评论概括实物、传承实践和生活联系；青瓷、烤馕及年画均为来源所用对象，不新增案例。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "非物质文化遗产所承载的文化关系，往往比眼前的实物更宽"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "非遗保护需要维护传承者开展实践的能力和环境"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "非中心：这是青瓷例子的真实信息，但只谈成品所体现的内容，没有覆盖参与、分享和生活环境。",
+                  "errorType": "非中心"
+                },
+                "B": {
+                  "text": "无据对策：材料指出仅有收藏不足以延续实践，并未主张减少收藏活动；加强生活联系与收藏并非此消彼长。",
+                  "errorType": "无据对策"
+                },
+                "C": {
+                  "text": "重心移换：材料重视传承者的实践及生活关系，未把消费者审美需求确立为传承重心。",
+                  "errorType": "重心移换"
+                },
+                "D": {
+                  "text": "正确：既保留传承者的主动实践，也涵盖实践赖以持续的日常生活联系，统摄三个例子。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261113-02-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "星际尘埃中的光回声",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】NASA/JPL-Caltech《Dissecting a Light Echo》 https://www.jpl.nasa.gov/images/pia10723-dissecting-a-light-echo/（访问日期：2026-11-13）。据2008年科普动画文字说明翻译改写红外光回声的受照、传播与表观移动机制；未复制图片。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "星际尘埃中的光回声",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "恒星爆发发出的强光向四周传播，遇到附近的尘埃团时，会使它们短暂升温并发出红外辐射。这种现象称为红外光回声。若把连续观测到的亮区连成画面，便可能看到仿佛有物质从恒星向外移动；形成这一画面的，却可以是不同位置的尘埃先后被照亮。离爆发点近的尘埃先接收到光，而冲击波抵达较远物质还需要更久。尘埃发出的红外光也要经过各自的路径才能到达地球，因此不同区域的信号并不同时进入观测者视野。画面中亮区的变化还与尘埃云相对于地球视线的倾斜方向有关：在不同的几何关系下，亮区可以呈现远离恒星或朝向恒星的移动。这里看到的连续变化，如同一串灯先后亮起所形成的移动效果，记录的是照明与光到达的次序，而非逐一追踪同一团尘埃的位置。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "内容推断",
+            "stem": "根据这段文字，下列关于红外光回声的判断正确的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "亮区朝向恒星变化，表明被照亮的尘埃正在回落"
+              },
+              {
+                "id": "B",
+                "text": "尘埃云与视线的几何关系，会影响亮区的表观移动方向"
+              },
+              {
+                "id": "C",
+                "text": "冲击波先后通过尘埃团，构成这里所述亮区变化的光源"
+              },
+              {
+                "id": "D",
+                "text": "观测者接收信号的先后，可以直接视为尘埃受照的先后"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "文中说明云的倾斜方向能使亮区表现为远离或朝向恒星，因此B成立。受照先后与接收先后还隔着不同传播路径，不能直接等同。\n\n【来源与改编】NASA/JPL-Caltech《Dissecting a Light Echo》 https://www.jpl.nasa.gov/images/pia10723-dissecting-a-light-echo/（访问日期：2026-11-13）。据2008年科普动画文字说明翻译改写红外光回声的受照、传播与表观移动机制；未复制图片。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "画面中亮区的变化还与尘埃云相对于地球视线的倾斜方向有关"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "尘埃发出的红外光也要经过各自的路径才能到达地球"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "现象替代：表观亮区变化不等于同一尘埃团回落，文中给出的是照明和传播解释。",
+                  "errorType": "现象替代"
+                },
+                "B": {
+                  "text": "正确：与视线的倾斜方向不同，对应亮区远离或朝向恒星的不同表观变化。"
+                },
+                "C": {
+                  "text": "机制移换：文中是爆发强光使尘埃升温发出红外辐射，并非冲击波通过造成该现象。",
+                  "errorType": "机制移换"
+                },
+                "D": {
+                  "text": "条件遗漏：接收时间还取决于尘埃到地球的传播路径，不能直接等同于受照次序。",
+                  "errorType": "条件遗漏"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261113-03-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "家庭劳动的统计画像",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国经济分析局BEA《Household Production》 https://bea.gov/data/special-topics/household-production（访问日期：2026-11-13）。概括补充家庭生产统计与核心GDP的关系。；美国经济分析局BEA《How does BEA measure household production?》 https://bea.gov/help/faq/1295（访问日期：2026-11-13）。保留2018年方法说明的时间语境，改写时间调查、家政工资和耐用品处理。；美国经济分析局BEA《Why isn't household production included in GDP?》 https://bea.gov/help/faq/1297（访问日期：2026-11-13）。据2018年说明改写缺少交易与可靠资料对核算边界的影响。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "家庭劳动的统计画像",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "做饭、清洁和照料家人需要投入时间，却未必伴随工资支付。美国经济分析局的核心国内生产总值核算不包含这些为家庭无偿提供的服务；缺少可追踪的市场交易和可靠资料，是形成这一核算边界的原因。另行编制的家庭生产统计，则尝试描绘市场之外的经济活动。该局在二〇一八年的方法说明中介绍，估计无偿家务劳动的价值，要借助询问人们如何安排时间的调查，并采用一般家政服务人员的工资进行估值；为观察长期趋势，还会结合不同年代的调查资料。这种补充核算也对耐用品采用不同处理：居民购买耐用品在核心GDP中记为消费，在家庭生产核算中则作为投资处理。于是，同一种生活活动可以在不同核算框架下呈现不同面貌。补充账户所增加的是观察家庭生产的角度，它让未进入核心指标的劳动有了可讨论的经济量度。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "意图判断",
+            "stem": "作者介绍家庭生产统计，意在说明：",
+            "options": [
+              {
+                "id": "A",
+                "text": "补充核算可以呈现核心经济指标未涵盖的家庭劳动"
+              },
+              {
+                "id": "B",
+                "text": "家政服务工资为无偿家务的经济估值提供一种参照"
+              },
+              {
+                "id": "C",
+                "text": "家庭生产统计的建立将耐用品移出了核心消费核算"
+              },
+              {
+                "id": "D",
+                "text": "缺少市场交易的家庭服务主要应通过实物数量统计"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "文章从核心口径未涵盖的活动谈到补充估值及不同核算处理，重点在于补充视角。A未把补充账户误当作核心GDP的修订。\n\n【来源与改编】美国经济分析局BEA《Household Production》 https://bea.gov/data/special-topics/household-production（访问日期：2026-11-13）。概括补充家庭生产统计与核心GDP的关系。；美国经济分析局BEA《How does BEA measure household production?》 https://bea.gov/help/faq/1295（访问日期：2026-11-13）。保留2018年方法说明的时间语境，改写时间调查、家政工资和耐用品处理。；美国经济分析局BEA《Why isn't household production included in GDP?》 https://bea.gov/help/faq/1297（访问日期：2026-11-13）。据2018年说明改写缺少交易与可靠资料对核算边界的影响。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "另行编制的家庭生产统计，则尝试描绘市场之外的经济活动"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "补充账户所增加的是观察家庭生产的角度"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：涵盖无偿家务估值和不同框架的处理，符合增补观察角度的论述目的。"
+                },
+                "B": {
+                  "text": "非中心：这是2018年方法说明中的真实估值办法，但只覆盖一个操作环节，没有概括补充核算与核心指标的关系。",
+                  "errorType": "非中心"
+                },
+                "C": {
+                  "text": "框架混同：耐用品仍在核心GDP中记为消费，只是在家庭生产核算中作投资处理。",
+                  "errorType": "框架混同"
+                },
+                "D": {
+                  "text": "方法无据：文中采用时间调查与工资估值，没有主张以实物数量为主要统计方式。",
+                  "errorType": "方法无据"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261113-04-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "纸上作品的收存环境",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】加拿大文物保护研究所CCI《Basic care – Works of art on paper》 https://www.canada.ca/en/conservation-institute/services/care-objects/paper-books/basic-care-art-paper.html（访问日期：2026-11-13）。选择光、湿度和易脱落画材的静电风险概括翻译；题干馆藏方案为明确的设问情境，不是真实案例。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "纸上作品的收存环境",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "水彩、炭笔画和彩色版画虽然同以纸为载体，保存时仍须考虑画材的不同性质。光照可使颜色褪去、纸张变色，有时还会使纸张脆化；自然光和人工光都可能造成损伤，已经发生的光损伤不能逆转。空气湿度较高时，纸张吸湿膨胀，可能出现起伏和皱褶，长期处在这种环境中还容易发生霉变。保存品质较好的卡纸、装框和外包装能在短时间内缓冲湿度上升的影响。对于未装框的作品，无酸文件夹与有盖无酸盒是常用的收存选择，但对炭笔、粉彩等表面颗粒容易脱落的画作，还须留意接触材料。塑料文件夹、护套或隔页可能积聚静电，把这些画材从纸面吸走。托裱并装框则能为状况良好的这类画作提供支撑和保护。因此，选择收存用品时，既要考虑纸张接触材料的化学性质，也要考虑画面本身的物理特性。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "情境应用",
+            "stem": "某馆拟将一幅状况良好的未装框炭笔画装入塑料护套，并认为只要接触材料无酸，就符合文中的保藏要求。依据文段，对这一方案最恰当的判断是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "可以采用，因为未装框作品的无酸收存原则同样适用于这幅画"
+              },
+              {
+                "id": "B",
+                "text": "宜改用无酸盒收存，再用塑料隔页将它同其他炭笔画分开"
+              },
+              {
+                "id": "C",
+                "text": "需另作考虑，因为材料无酸不能排除静电吸走画材的风险"
+              },
+              {
+                "id": "D",
+                "text": "需另作考虑，因为纸张起伏主要来自塑料护套积聚静电"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "题干强调炭笔画与塑料护套，关键是易脱落画材的静电风险。无酸解决的材料化学问题，不能替代对物理风险的考虑，C准确。\n\n【来源与改编】加拿大文物保护研究所CCI《Basic care – Works of art on paper》 https://www.canada.ca/en/conservation-institute/services/care-objects/paper-books/basic-care-art-paper.html（访问日期：2026-11-13）。选择光、湿度和易脱落画材的静电风险概括翻译；题干馆藏方案为明确的设问情境，不是真实案例。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "塑料文件夹、护套或隔页可能积聚静电，把这些画材从纸面吸走"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "既要考虑纸张接触材料的化学性质，也要考虑画面本身的物理特性"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "条件遗漏：无酸收存的一般原则是真信息，但炭笔画还受易脱落画材这一具体条件约束，不能据此认可塑料护套方案。",
+                  "errorType": "条件遗漏"
+                },
+                "B": {
+                  "text": "风险保留：无酸盒的选择有一般依据，但塑料隔页仍可能积聚静电，并未解决针对炭笔画的风险。",
+                  "errorType": "风险保留"
+                },
+                "C": {
+                  "text": "正确：把无酸与防静电区分开，针对炭笔画的易脱落画材作判断。"
+                },
+                "D": {
+                  "text": "因果移接：纸张起伏对应吸湿膨胀；静电所对应的是画材被吸离纸面。",
+                  "errorType": "因果移接"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261113-05-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "地形图上的北向箭头",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国地质调查局USGS《What do the different north arrows on a USGS topographic map mean?》 https://www.usgs.gov/faqs/what-do-different-north-arrows-a-usgs-topographic-map-mean（访问日期：2026-11-13）。概括真北、磁北、网格北的定义与变化来源；不使用具体地点或未核实角度数值。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "地形图上的北向箭头",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "不少美国地质调查局地形图的图边绘有三个北向箭头，并标出它们之间的夹角。真北以经线为依据，经线在两极汇聚，图示通常用星形标记表示这一方向。磁北箭头则表示地图出版时磁罗盘所指的方向；这一方向会随地表位置和时间变化，因而旧图上的磁偏角未必仍适用于今天。网格北属于地图采用的平面网格系统，它与真北的差别，是把地球曲面转换为平面时产生的结果。对于一幅具体地图，这一差别的大小与投影方式、图幅相对于投影原点的位置有关。较新的US Topo地形图采用横轴墨卡托投影，并绘有相应的通用横轴墨卡托网格；历史地图则可能使用其他网格系统。三个箭头同处一张图上，承担的参照功能各不相同。读图者把罗盘方向同图中线路联系起来时，需要先辨认线路所依据的方向，再查看相应的角度关系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节选非",
+            "stem": "下列关于文中三种北向的表述，与原文不符的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "网格北与真北的夹角大小，同投影方式及图幅位置有关"
+              },
+              {
+                "id": "B",
+                "text": "旧图上磁北的指向，可能与如今当地的罗盘方向不同"
+              },
+              {
+                "id": "C",
+                "text": "历史地形图的网格北，可能属于不同于较新图的网格系统"
+              },
+              {
+                "id": "D",
+                "text": "同一旧图上真北与网格北的夹角，应随当地磁偏角更新"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "真北和网格北的差别来自曲面到平面的投影，磁偏角的时间变化属于另一参照关系。D把这两类变化混在一起，其余三项均有文本依据。\n\n【来源与改编】美国地质调查局USGS《What do the different north arrows on a USGS topographic map mean?》 https://www.usgs.gov/faqs/what-do-different-north-arrows-a-usgs-topographic-map-mean（访问日期：2026-11-13）。概括真北、磁北、网格北的定义与变化来源；不使用具体地点或未核实角度数值。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "网格北属于地图采用的平面网格系统，它与真北的差别，是把地球曲面转换为平面时产生的结果"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "这一方向会随地表位置和时间变化"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "符合：材料直接说明该夹角与投影方式、图幅相对投影原点的位置有关，不选。",
+                  "errorType": "符合"
+                },
+                "B": {
+                  "text": "符合：磁北方向会随时间变化，旧图数值未必适用现在，不选。",
+                  "errorType": "符合"
+                },
+                "C": {
+                  "text": "符合：历史地图可能采用其他网格系统，保留了可能性限定，不选。",
+                  "errorType": "符合"
+                },
+                "D": {
+                  "text": "不符：同一旧图的投影关系没有因当地磁偏角变化而改变；D把磁北变化移接给真北与网格北关系，故选。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261113-06-r1",
+      "createdAt": 1794537634478,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "公众观察走进环境研究",
+        "count": 5
+      },
+      "reviewNote": "【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "公众观察走进环境研究",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "公众参与科研的方式，比在户外记录一个数字更为多样：人们可以参与采集、分析资料，也可以协助辨读已有记录。美国国家海洋和大气管理局介绍的众包水深测量，就是将资料采集嵌入日常活动的例子。参与船只在常规海上作业中，利用标准导航仪器记录水深，让航行中产生的观测用于填补海底地形资料的空白。这种合作借助航海者已有的活动与设备，把分散在不同航程中的测量汇入更广泛的观测工作。它与公众通过手机提交天气见闻一样，都为专业机构增加了获取环境资料的途径。",
+              "地面见闻的作用，在天气观测中尤其具体。美国国家强风暴实验室二〇一七年的介绍说，mPING项目让公众报告所在地正在发生的天气，报告存入数据库，并显示在可供公众查看的地图上。天气雷达难以直接看到地面实际降水状况，研究者便可把这些现场报告与雷达判断相互参照。该项目最初用于检验新雷达技术识别的降水类型，后来还帮助评估预报技术。这里，人的观察和仪器判断分别进入同一个问题的研究过程。",
+              "报告之间出现差异，也可能成为进一步调查的起点。该实验室在核查冻雨报告时发现，与之不一致的报告中有相当一部分记为冰粒，而非普通雨。冻雨到达低于冰点的物体表面才冻结；若近地面的空气稍冷一些，雨滴可能在落地前就冻成冰粒，稍暖一些又可能不再形成冻雨。这些现象对应的温度条件相近，变化范围却窄。研究者因而进一步考察降水在空间上的细微变化，从分歧中获得关于冻雨尺度和变异的信息。",
+              "公众还可帮助找回过去的观察。欧洲中期天气预报中心在二〇一九年介绍，OldWeather志愿者辨读、标注并转录十九世纪至二十世纪初的航海日志。当时这些记录格式多样、笔迹各异，自动处理仍有困难。历史资料救援还包括保存观测时间、地点和仪器等背景，检查记录本身及转录中的错误，再以一致格式存储和整合。它要将散落的记录变成可共享、可用于研究的资料。把经过质量检查的旧观测与模型结合，可以重建过去天气；这与单纯保存一张日志图片，处于资料利用的不同环节。",
+              "参与者提供了新渠道，数据使用者也需要知道资料能回答什么问题。美国环境保护局二〇一九年的质量保证手册建议，在项目开始时就把质量要求纳入设计，说明采样安排、人员培训、误差控制和资料检查方式，使所得数据适合预定用途。用于社区教育的项目，与用于科研或政策行动的项目，所需质量保证和文档细节可能不同。若项目原先为增进公众认识，后来转向支持污染治理，质量要求也可能需要加强；项目变化时，质量保证计划应随之更新。",
+              "这类文档还承担沟通作用。项目组织者熟悉的采集步骤，外部使用者未必了解。环保局为相关组织提供手册、模板和示例：手册解释各部分的目的，模板给出需要说明的问题和表格，示例展示记录方式。组织者据此把做法写清楚，使用者才能有材料评估这些数据的质量。方法透明连接着观察者与数据使用者，让共同采集的资料有机会进入后续分析、讨论和决策。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "细节理解",
+            "stem": "第一段所述众包水深测量的组织方式，其特点是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "将测深嵌入已有航行，以日常作业中的观测补充资料"
+              },
+              {
+                "id": "B",
+                "text": "按海底资料空白分配专门航次，集中部署新型测深仪器"
+              },
+              {
+                "id": "C",
+                "text": "让船员通过地图辨认水深，以航海经验代替仪器读数"
+              },
+              {
+                "id": "D",
+                "text": "先用天气报告安排航程，再同步开展海底地形观测"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "第一段明确是常规海上作业、标准导航仪器和航行中的观测，A保留了“已有活动与采集结合”的关系。\n\n【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "参与船只在常规海上作业中，利用标准导航仪器记录水深"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "把分散在不同航程中的测量汇入更广泛的观测工作"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：日常航行提供采集机会，分散观测服务更广泛的海底资料补充。"
+                },
+                "B": {
+                  "text": "方式移换：原文借助常规作业和已有设备，没有专门分配航次或部署新型仪器的安排。",
+                  "errorType": "方式移换"
+                },
+                "C": {
+                  "text": "手段移换：文中借助标准导航仪器测量，未以经验或看图代替读数。",
+                  "errorType": "手段移换"
+                },
+                "D": {
+                  "text": "关系无据：天气报告是另一参与方式的例子，未被设置为安排测深航程的前提。",
+                  "errorType": "关系无据"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "内容推断",
+            "stem": "结合第三段，冻雨报告与冰粒报告出现分歧，可能反映：",
+            "options": [
+              {
+                "id": "A",
+                "text": "记录冰粒的人通常把物体表面形成的冰当作空中降水"
+              },
+              {
+                "id": "B",
+                "text": "普通雨与冻雨的区别主要取决于观察者使用的报告工具"
+              },
+              {
+                "id": "C",
+                "text": "近地面温度较高的地点更容易让雨滴在落地前冻结"
+              },
+              {
+                "id": "D",
+                "text": "相近区域的温度差异使雨滴在到达地面前后的状态不同"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "第三段把冻雨、冰粒及普通雨同接近冰点的不同条件联系起来。较冷时雨滴可在落地前结冰，冻雨则在接触低温物体后冻结，D符合这一机制。\n\n【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 3,
+                  "quote": "若近地面的空气稍冷一些，雨滴可能在落地前就冻成冰粒，稍暖一些又可能不再形成冻雨"
+                },
+                {
+                  "paragraph": 3,
+                  "quote": "研究者因而进一步考察降水在空间上的细微变化"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "无据归因：文中没有把冰粒报告通常归于观察错误，而是据此探查降水变化。",
+                  "errorType": "无据归因"
+                },
+                "B": {
+                  "text": "原因移换：文中以温度条件及冻结环节解释类型差别，未归因于报告工具。",
+                  "errorType": "原因移换"
+                },
+                "C": {
+                  "text": "方向颠倒：落地前冻成冰粒对应近地面空气稍冷，C写成较高温度。",
+                  "errorType": "方向颠倒"
+                },
+                "D": {
+                  "text": "正确：把温度的空间差异和不同冻结环节结合，能解释分歧可能包含的环境信息。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "词句理解",
+            "stem": "第四段“处于资料利用的不同环节”主要是说：",
+            "options": [
+              {
+                "id": "A",
+                "text": "保存日志图片已完成质量检查，天气重建再负责格式统一"
+              },
+              {
+                "id": "B",
+                "text": "日志保存以便查阅，而资料救援还须加工整合以供研究利用"
+              },
+              {
+                "id": "C",
+                "text": "辨读日志负责确定天气状态，模型再把结论还原成原始记录"
+              },
+              {
+                "id": "D",
+                "text": "图片保存针对历史记录，而资料救援针对当下新采集的数据"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "此处比较保存图片与将旧观测加工后用于重建过去天气。段内列出的背景保存、质量检查、格式存储整合说明，两者在资料利用链条中所处环节不同，B准确。\n\n【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 4,
+                  "quote": "历史资料救援还包括保存观测时间、地点和仪器等背景，检查记录本身及转录中的错误，再以一致格式存储和整合"
+                },
+                {
+                  "paragraph": 4,
+                  "quote": "把经过质量检查的旧观测与模型结合，可以重建过去天气"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "环节混同：保存图片本身不等于完成质量检查，统一格式也不是文中交给天气重建的任务。",
+                  "errorType": "环节混同"
+                },
+                "B": {
+                  "text": "正确：保存图片与进一步加工、整合、研究利用处在不同环节，未否定图片保存的作用。"
+                },
+                "C": {
+                  "text": "过程倒置：文中是观测与模型结合重建过去天气，未说由结论还原原始记录。",
+                  "errorType": "过程倒置"
+                },
+                "D": {
+                  "text": "对象移换：第四段讨论的救援对象就是历史旧观测，并非当下新采集数据。",
+                  "errorType": "对象移换"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "情境应用",
+            "stem": "某公众观测项目原用于社区教育，现计划将数据用于污染治理。依据第五段，最适当的做法是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "延用原计划，以保持不同用途的数据在质量要求上相同"
+              },
+              {
+                "id": "B",
+                "text": "增加参与人数，以采集规模的扩大抵消用途改变的影响"
+              },
+              {
+                "id": "C",
+                "text": "核对新用途所需质量要求，并据此更新原有质量保证计划"
+              },
+              {
+                "id": "D",
+                "text": "保留原培训和检查方式，将调整重点放在成果宣传对象上"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "第五段要求质量保证适应预定用途，特别举出从公众认识转向污染治理的变化。应评估新用途并更新计划，而不是仅改人数或宣传对象。\n\n【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "若项目原先为增进公众认识，后来转向支持污染治理，质量要求也可能需要加强"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "项目变化时，质量保证计划应随之更新"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "条件忽略：用途变化时所需要求可能不同，不能为保持相同要求而直接延用原计划。",
+                  "errorType": "条件忽略"
+                },
+                "B": {
+                  "text": "替代无据：采集规模不能由文中推出可抵消用途变化带来的质量要求差异。",
+                  "errorType": "替代无据"
+                },
+                "C": {
+                  "text": "正确：先按新用途核对要求，再更新计划，保留了“可能需要加强”而非机械一律升级的限定。"
+                },
+                "D": {
+                  "text": "重点移换：文中要求关注采样、培训、误差控制和检查，不能将调整主要缩成宣传对象变化。",
+                  "errorType": "重点移换"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "篇章结构",
+            "stem": "前四段与后两段的关系，概括最恰当的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "前者呈现公众参与及资料贡献，后者说明数据质量如何安排和说明"
+              },
+              {
+                "id": "B",
+                "text": "前者介绍公众采集导致的偏差，后者给出专业机构取代公众的步骤"
+              },
+              {
+                "id": "C",
+                "text": "前者并列介绍资料获取路径，后者转向公众采集技能的培训"
+              },
+              {
+                "id": "D",
+                "text": "前者论证增加观测量的必要性，后者说明数据规模对质量的保障"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "前四段分述航行采集、天气观察与历史记录处理的贡献；第五段转到按用途安排质量，第六段讨论以文档向使用者说明质量。A概括这一推进关系，未将具体例子误读为历史演变或替代方案。\n\n【来源与改编】美国国家海洋和大气管理局NOAA NESDIS《Citizen Science》 https://www.nesdis.noaa.gov/about/citizen-science（访问日期：2026-11-13）。第一段概括公众参与范围与常规航行中的众包水深测量。；NOAA国家强风暴实验室NSSL《Weather Reports from Citizens Provide Research Input》 https://inside.nssl.noaa.gov/nsslnews/2017/05/weather-reports-from-citizens-provide-research-input/（访问日期：2026-11-13）。第二、三段据2017年报道概括地面报告、雷达检验与冻雨差异，不保留易过时的应用操作频率与数据量。；欧洲中期天气预报中心ECMWF《The role of ECMWF and the C3S in historical data rescue》 https://www.ecmwf.int/en/about/media-centre/focus/2019/role-ecmwf-and-c3s-historical-data-rescue（访问日期：2026-11-13）。第四段保留2019年语境，概括航海日志转录、背景和质量检查、整合与再分析；不把当年计划写成已完成。；美国环境保护局EPA《Handbook for Citizen Science Quality Assurance and Documentation》 https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf（访问日期：2026-11-13）。第五段据2019年手册第4—9页概括预定用途、质量计划与用途变化；不是现行法律适用意见。；美国环境保护局EPA《Quality Assurance Handbook and Toolkit for Participatory Science Projects》 https://www.epa.gov/participatory-science/quality-assurance-handbook-and-toolkit-participatory-science-projects（访问日期：2026-11-13）。第六段概括手册、模板、示例的不同功能及方法透明对使用者评估的作用。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "公众参与科研的方式，比在户外记录一个数字更为多样"
+                },
+                {
+                  "paragraph": 4,
+                  "quote": "公众还可帮助找回过去的观察"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "参与者提供了新渠道，数据使用者也需要知道资料能回答什么问题"
+                },
+                {
+                  "paragraph": 6,
+                  "quote": "这类文档还承担沟通作用"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：既覆盖前部不同参与路径，也对应后部质量设计和文档沟通两个方面。"
+                },
+                "B": {
+                  "text": "主线误判：前部并非以公众偏差为主线，后部也没有专业机构取代公众的步骤。",
+                  "errorType": "主线误判"
+                },
+                "C": {
+                  "text": "概括不全：前部确实介绍不同资料获取路径，但后部涉及按用途设计质量和向使用者说明方法，培训只是其中一个环节，并非后部的整体重心。",
+                  "errorType": "概括不全"
+                },
+                "D": {
+                  "text": "关系移换：前部不只讲数量增加，后部依据用途、方法和记录建立可用性，未说规模保障质量。",
+                  "errorType": "关系移换"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
