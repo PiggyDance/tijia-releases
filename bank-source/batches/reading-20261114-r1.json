@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "batchId": "reading-20261114-r1",
+  "items": [
+    {
+      "id": "reading-20261114-01-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "夜读时段与读者书单",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】国家新闻出版署网站（转载中国文化报，作者王竹青）《办好阅读服务这件事，江西拿出实招》 https://www.nppa.gov.cn/xxfb/dfgz/202604/t20260414_984723.html（访问日期：2026-11-14）。保留2026年4月报道语境，概括延时开放、读者选书与数字资源覆盖。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "夜读时段与读者书单",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "公共阅读服务是否便利，不只取决于一座城市拥有多少场馆，还关系到居民能否在有空时进入，以及书架上的内容是否贴近需求。二〇二六年四月的一篇江西阅读服务报道，将服务改进放在几个彼此关联的环节中展开：延时、错时开放回应工作生活节奏与场馆开放时段的错位；读者参与选书，使个人阅读兴趣更直接地进入公共采购过程；省市数字资源共享，则把服务延伸到乡村和偏远地区。夜间开放的场馆还开展读书会、数字体验等活动，提供知识获取和交流的空间。读者选书也有现场与线上两条路径：前者可在服务点挑选并借阅，后者提交申请后，由图书馆采购入藏，再选择自取或寄送。数字阅读平台则连接不同层级的阅读空间，汇集电子图书和有声读物。这些安排从时间、内容和资源可达性三个方向，把阅读服务接到读者的日常生活中。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "中心概括",
+            "stem": "这段文字主要说明公共阅读服务应如何改进？",
+            "options": [
+              {
+                "id": "A",
+                "text": "延长场馆开放时段，为读者提供夜间阅读和交流的空间"
+              },
+              {
+                "id": "B",
+                "text": "通过读者选书优化馆藏，让公共采购主要围绕个人申请展开"
+              },
+              {
+                "id": "C",
+                "text": "统筹开放时段、内容供给和资源覆盖，使服务贴近读者需求"
+              },
+              {
+                "id": "D",
+                "text": "依托数字平台汇集资源，将现场借阅转为线上申请与配送"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "文章并列展开时间、内容和资源覆盖三个环节，中心是多方面适配读者日常需求。夜间交流是真实局部内容，不能概括另外两个方向。\n\n【来源与改编】国家新闻出版署网站（转载中国文化报，作者王竹青）《办好阅读服务这件事，江西拿出实招》 https://www.nppa.gov.cn/xxfb/dfgz/202604/t20260414_984723.html（访问日期：2026-11-14）。保留2026年4月报道语境，概括延时开放、读者选书与数字资源覆盖。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "这些安排从时间、内容和资源可达性三个方向，把阅读服务接到读者的日常生活中"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "以偏概全：夜间交流有原文依据，但没有统摄读者选书与数字资源覆盖。",
+                  "errorType": "以偏概全"
+                },
+                "B": {
+                  "text": "范围扩大：读者可参与选书，不等于公共采购主要围绕个人申请；且遗漏其他服务方向。",
+                  "errorType": "范围扩大"
+                },
+                "C": {
+                  "text": "正确：覆盖三个相互关联的方向及共同目的。"
+                },
+                "D": {
+                  "text": "关系偷换：线上申请与现场借阅是并存路径，文中没有以线上替代现场的安排。",
+                  "errorType": "关系偷换"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261114-02-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "牡蛎礁与周围水域",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】NOAA Fisheries《Oyster Reef Habitat》 https://www.fisheries.noaa.gov/national/habitat-conservation/oyster-reef-habitat（访问日期：2026-11-14）。翻译概括幼体附着、过滤与水质反馈、捕捞影响；横线为出题设置。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "牡蛎礁与周围水域",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "牡蛎幼体起初在水中漂游，随后附着到石块、旧贝壳等坚硬表面，逐渐聚集成礁。礁体的缝隙为鱼蟹提供躲避捕食者的场所，也容纳其他附着生物。牡蛎通过滤食摄取水中的藻类，能够改善营养物质过多的水域状况；水变得较清澈后，又有利于水下植被生长，为幼小动物提供更多生境。不过，________。来自陆地的径流、侵蚀和污染，会改变盐度、降低含氧量，并带来过多泥沙；沉积物还会覆盖牡蛎赖以附着的硬底。牡蛎健康状况和数量下降后，过滤水体的能力也随之减弱，周围水质可能进一步恶化。捕捞方式同样影响礁体：刮取活牡蛎会削弱礁体的高度与结构，使原本立体的生境变薄。修复牡蛎礁因而同时涉及活体、附着基底和周围环境，而礁体恢复后提供的生境收益又超出了牡蛎自身。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "语句衔接",
+            "stem": "填入文中横线处最恰当的一项是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "礁体周围的水下植被也在参与塑造适合幼体附着的硬底"
+              },
+              {
+                "id": "B",
+                "text": "牡蛎对水体的改善作用，也受其赖以生存的水域条件制约"
+              },
+              {
+                "id": "C",
+                "text": "水质改善形成的生境收益，还要通过礁体高度的增加实现"
+              },
+              {
+                "id": "D",
+                "text": "礁体结构被削弱之后，牡蛎才会暴露于陆地污染的影响中"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "前文写牡蛎改善水质，后文转写环境恶化损害牡蛎并反过来削弱过滤能力，空缺句应概括这种制约。\n\n【来源与改编】NOAA Fisheries《Oyster Reef Habitat》 https://www.fisheries.noaa.gov/national/habitat-conservation/oyster-reef-habitat（访问日期：2026-11-14）。翻译概括幼体附着、过滤与水质反馈、捕捞影响；横线为出题设置。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "牡蛎健康状况和数量下降后，过滤水体的能力也随之减弱，周围水质可能进一步恶化"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "无据推断：原文没有说水下植被塑造适合幼体附着的硬底，也不能承接后文环境危害。",
+                  "errorType": "无据推断"
+                },
+                "B": {
+                  "text": "正确：用反向制约关系连接水质改善与环境损害两个方向。"
+                },
+                "C": {
+                  "text": "附加条件：原文并未把礁体增高设为水质改善产生生境收益的必经环节。",
+                  "errorType": "附加条件"
+                },
+                "D": {
+                  "text": "条件错置：污染对牡蛎的影响并不以礁体结构先被削弱为前提。",
+                  "errorType": "条件错置"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261114-03-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "钟表时刻与天文时间",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国国家标准与技术研究院NIST《Leap Seconds FAQs》 https://www.nist.gov/pml/time-and-frequency-division/leap-seconds-faqs（访问日期：2026-11-14）。保留2024年科普语境，概括原子计时、自转观测和闰年规则，不描述后续政策。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "钟表时刻与天文时间",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "原子钟给出的稳定节拍，与地球自转所提供的计时基准，并不天然保持一致。美国国家标准与技术研究院二〇二四年的科普说明介绍，协调世界时依托原子钟，天文时间则依据并不均匀的地球自转。原子秒定义形成时承接的时间尺度与平均太阳秒略有差别，地球自转速度又会变化，两者共同造成时间尺度逐渐偏离。闰秒机制依据对地球自转的观测，在需要时调整协调世界时，使它与天文时间接近。保持这种接近关系，方便了一些天文观测；但在时间记录、通信和授时系统中，额外插入一秒又需要专门处理。闰年也在协调人类计时与天体运动，不过它处理的是历年天数与地球绕太阳运行周期的差别，按照既定规则安排额外的一天。一个以观测结果判断是否调整，一个依规则安排日历，两种机制分别作用于不同尺度的时间协调问题。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "机制比较",
+            "stem": "根据文中二〇二四年说明，闰秒和闰年的区别主要在于：",
+            "options": [
+              {
+                "id": "A",
+                "text": "前者补偿原子钟节拍的不稳定，后者补偿地球自转的不均匀"
+              },
+              {
+                "id": "B",
+                "text": "前者主要维护通信记录的连续性，后者主要服务天文观测"
+              },
+              {
+                "id": "C",
+                "text": "前者依据地球自转的长期趋势定期安排，后者依据逐年观测临时安排"
+              },
+              {
+                "id": "D",
+                "text": "前者依据自转观测判断调整需要，后者依既定规则协调历年与公转周期"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "闰秒针对原子计时与不均匀自转的偏离，以观测判断；闰年协调历年与公转周期，按规则设置。本题只比较材料所述机制，不据此判断此后制度变更。\n\n【来源与改编】美国国家标准与技术研究院NIST《Leap Seconds FAQs》 https://www.nist.gov/pml/time-and-frequency-division/leap-seconds-faqs（访问日期：2026-11-14）。保留2024年科普语境，概括原子计时、自转观测和闰年规则，不描述后续政策。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "一个以观测结果判断是否调整，一个依规则安排日历"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "对象错配：原子钟节拍稳定；闰年对应公转周期而非自转不均匀。",
+                  "errorType": "对象错配"
+                },
+                "B": {
+                  "text": "目的错置：插秒给通信记录带来额外处理需求，文中也未将闰年主要用途归为天文观测。",
+                  "errorType": "目的错置"
+                },
+                "C": {
+                  "text": "关系颠倒：把观测判断与规则安排互换，长期趋势不能推出固定闰秒周期。",
+                  "errorType": "关系颠倒"
+                },
+                "D": {
+                  "text": "正确：分别对应两种机制的判断依据和协调对象。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261114-04-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "馆藏影像的文字转录",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】史密森学会数字转录中心《How to Transcribe》 https://transcription.si.edu/instructions/transcribe（访问日期：2026-11-14）。根据正文开头的转录、审阅、发布与机构复查流程概括改写；专家复查保留可能性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "馆藏影像的文字转录",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "馆藏文献拍成图片后，阅读者能够看到页面，却未必能直接检索其中每一个词。史密森学会的数字转录项目把馆藏影像转为可检索的文字表示，方便研究者、学生和其他使用者查找资料。这个过程由志愿者协作和机构工作人员共同支持。参与者可以只录入一个词，也可以完成整页，并保存进度，让其他人继续补充。转录者认为页面已完成时，将其提交检查；另一位志愿者再核对最终文字。如果需要修改，页面会被重新开放，继续转录工作；符合要求则可由审阅者发布。发布后的文字也可能再经机构专家复查：专家既可以给予最终认可，也可能要求补充编辑而重新开放页面。由此，一页文献从录入到可供检索的文字，并不是某位参与者一次完成的动作，而是一条允许协作、核对和返回修改的工作链，各阶段承担不同职责。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "流程理解",
+            "stem": "依据文中转录流程，以下哪项理解正确？",
+            "options": [
+              {
+                "id": "A",
+                "text": "页面经志愿者审阅发布后，仍可能因专家复查而返回编辑环节"
+              },
+              {
+                "id": "B",
+                "text": "接力录入者保存页面进度后，便由另一位志愿者进入发布审阅"
+              },
+              {
+                "id": "C",
+                "text": "负责核对页面的志愿者认可文字后，才将其提交转录完成检查"
+              },
+              {
+                "id": "D",
+                "text": "机构专家复查页面，是志愿者得以公开发布文字的前置环节"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "文中将志愿者发布与可能发生的机构复查分为两个阶段，发布不排除之后重开编辑。\n\n【来源与改编】史密森学会数字转录中心《How to Transcribe》 https://transcription.si.edu/instructions/transcribe（访问日期：2026-11-14）。根据正文开头的转录、审阅、发布与机构复查流程概括改写；专家复查保留可能性。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "发布后的文字也可能再经机构专家复查"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "专家既可以给予最终认可，也可能要求补充编辑而重新开放页面"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：保留了发布之后仍可能复查并重新开放的流程。"
+                },
+                "B": {
+                  "text": "阶段混淆：保存进度可供继续补充，进入审阅还需转录者认为完成并提交。",
+                  "errorType": "阶段混淆"
+                },
+                "C": {
+                  "text": "顺序倒置：转录者提交检查在先，另一位志愿者核对在后。",
+                  "errorType": "顺序倒置"
+                },
+                "D": {
+                  "text": "先后颠倒：材料所述专家复查可能发生在发布之后，不是该发布的前置环节。",
+                  "errorType": "先后颠倒"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261114-05-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "short",
+        "difficulty": "hard",
+        "topic": "人口密度的地域口径",
+        "count": 1
+      },
+      "reviewNote": "【来源与改编】美国人口普查局《Locating QuickFacts Data Points in data.census.gov and census.gov》 https://www2.census.gov/data/api-documentation/locating-quickfacts-data-points-in-data-census-gov-and-census-gov.pdf（访问日期：2026-11-14）。据Geography部分2020年人口密度说明翻译计算口径，已读人口除以同年陆地面积正文。；美国人口普查局《How Can I Find the Land Area of a Geography?》 https://cdn.www.census.gov/data/what-is-data-census-gov/guidance-for-data-users/frequently-asked-questions/how-can-i-find-the-land-area-of-a-geography.html（访问日期：2026-11-14）。据2026年2月修订说明概括陆地、水域字段及地理版本匹配；边界调整为方法应用假设。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "人口密度的地域口径",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "人口密度看起来只是人口数与面积的相除，实际使用时却先要明确两个数字分别指向哪一块地方。美国人口普查局关于二〇二〇年人口密度的资料说明，计算时以相应地区人口除以该地区同年的陆地面积。地理信息表还提供水域面积，但它与陆地面积是不同字段。该局另一份使用说明提醒，将地理信息同人口调查资料结合时，要选取与数据参考年相匹配的地理版本。例如，二〇二三年的美国社区调查使用的边界，对应二〇二三年地理信息表。这样做是为了让人口统计覆盖的空间与面积的空间范围相互对应。若只看到两张表写着相同地区名称，便把旧口径的人口与新口径的面积拼在一起，所得比值可能混入边界差异。面积单位也须一致：以平方英里作分母，结果便是每平方英里的人口数；换用其他面积单位时，相应数值需要换算。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "口径应用",
+            "stem": "研究者发现某地区二〇二三年的边界较此前已有调整，拟按文中口径计算该年人口密度。下列做法最恰当的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "把旧边界下的人口总数与二〇二三年陆地面积相除，再统一面积单位"
+              },
+              {
+                "id": "B",
+                "text": "将二〇二三年人口数除以同版地理表中的陆地面积与水域面积之和"
+              },
+              {
+                "id": "C",
+                "text": "确认人口数据采用二〇二三年边界，再与该版地理表陆地面积配对"
+              },
+              {
+                "id": "D",
+                "text": "沿用旧版地理表的陆地面积，与二〇二三年人口数配对以便比较"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "人口与面积须覆盖同一空间范围；同名和统一单位都不能消除边界不一致。本文人口密度分母为陆地面积。题干是方法应用情境，不是某地真实调整案例。\n\n【来源与改编】美国人口普查局《Locating QuickFacts Data Points in data.census.gov and census.gov》 https://www2.census.gov/data/api-documentation/locating-quickfacts-data-points-in-data-census-gov-and-census-gov.pdf（访问日期：2026-11-14）。据Geography部分2020年人口密度说明翻译计算口径，已读人口除以同年陆地面积正文。；美国人口普查局《How Can I Find the Land Area of a Geography?》 https://cdn.www.census.gov/data/what-is-data-census-gov/guidance-for-data-users/frequently-asked-questions/how-can-i-find-the-land-area-of-a-geography.html（访问日期：2026-11-14）。据2026年2月修订说明概括陆地、水域字段及地理版本匹配；边界调整为方法应用假设。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "要选取与数据参考年相匹配的地理版本"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "让人口统计覆盖的空间与面积的空间范围相互对应"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "口径错配：统一单位并不能修复旧边界人口与新边界面积的空间差异。",
+                  "errorType": "口径错配"
+                },
+                "B": {
+                  "text": "分母扩大：水域面积是另一字段，文中密度口径使用陆地面积。",
+                  "errorType": "分母扩大"
+                },
+                "C": {
+                  "text": "正确：先确认人口空间口径，再匹配同版陆地面积，兼顾年份与范围。"
+                },
+                "D": {
+                  "text": "口径错配：为了比较而固定旧面积，会使其与已调整边界的人口范围不一致。",
+                  "errorType": "口径错配"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "reading-20261114-06-r1",
+      "createdAt": 1794624473617,
+      "options": {
+        "mode": "long",
+        "difficulty": "hard",
+        "topic": "文化景观中的历史层次",
+        "count": 5
+      },
+      "reviewNote": "【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。 按规范1.3同作者自审；难度未经实测。",
+      "content": {
+        "title": "文化景观中的历史层次",
+        "passages": [
+          {
+            "id": "p1",
+            "paragraphs": [
+              "历史庭园、农庄和其他文化景观，既包含建造物，也包含植物、使用方式和空间关系。研究工作首先要辨明，哪些特征使一处景观具有历史意义。美国国家公园管理局的说明把历史发展、历次改动和使用过程都列入调查范围，再联系历史背景评价现存特征。景观可能具有一个或多个重要历史时期。其完整性取决于体现历史意义的特征保留到了什么程度；植被会生长，使用方式也会变化，因此还要看历史时期的总体面貌能否辨认，以及不协调要素的影响是否可逆。对某些乡土景观，变化本身也可能是历史意义的一部分。",
+              "调查需要形成可供管理使用的记录。文化景观调查清单记录面积、位置、历史意义、特征及现状，编列对历史价值有贡献的要素，并记下影响保存状况的因素。它既提供景观变化的时间线，也评价当下状态；随着现状改变，清单会定期更新。这样的资料可以帮助维护、管理与解说人员了解对象，却主要承担基础记录的任务。清单中的一棵树、一条道路或一处空间关系，因其与历史的联系而获得说明，并不是因为被记录就自动对应某一种改造方式。",
+              "若管理目标超出日常维护，例如准备在文化景观中增设游客中心或停车设施，就需要进一步研究干预如何安排。文化景观报告在历史与现状分析、评价的基础上提出处理建议，对未来使用和解说给出方向。它通常包含调查评价与处理建议两部分，两者可以合为一份文件，也可以分开编制。报告研究新设施如何避免造成关键历史特征的损失，并帮助设计与景观相容的方案。研究还可能发现新的历史意义，进而调整人们对该处景观的解释。",
+              "处理方式取决于目标和现存条件。保存着重通过维护与稳定措施，减缓自然作用和日常使用造成的损耗；适应性修整则在保留体现历史意义的部分和特征的同时，通过修理或调整改善使用功能。后者可以容纳与历史特征相协调的新用途。已经完好或能够修理的历史材料，通常应避免被替换；新增部分也需要与原有材料、尺度和空间关系相容，并保持新旧可辨。这里，继续使用景观与保留其历史特征，需要在具体设计中一并考虑。",
+              "恢复与重建又有不同的对象和取向。恢复着眼于呈现景观某一特定时期的形态和特征，可能补回缺失要素，也可能有选择地移除后来的要素；其他时期的特征在改动或移除之前需要记录。重建则针对已经消失的景观或其组成部分，依据文献、考古或实物证据再现其形态。重建成果应明确标识为当代再现。两种方式都要求证据支持，不能以其他景观中的现成样式代替本地历史依据，也不应把历史上没有同时存在的要素拼在一起，造成错误的历史印象。",
+              "从调查到实施，记录仍须伴随干预过程。对材料和特征作出修理、替换或调整之前，要先有充分研究和记录，以保护它们的研究及解说价值。新施工、新材料和替代要素，可以用不显眼的标记或文档加以辨识，使后来的人知道哪些属于历史遗存、哪些属于后来的工作。这种辨识并不要求新设施在视觉上突兀；当代通行设施如坡道、栏杆和标志的设计与位置，还要尽量减小对景观特征的影响。自然过程与持续使用都会推动景观变化，管理工作因而需要同时关注自然要素、建造要素及它们之间的关系。"
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q1",
+            "passageId": "p1",
+            "kind": "概念辨析",
+            "stem": "第一段所说文化景观的“完整性”，更接近下列哪种含义？",
+            "options": [
+              {
+                "id": "A",
+                "text": "各个重要历史时期留下的要素，在现状中具有相近的可见程度"
+              },
+              {
+                "id": "B",
+                "text": "体现历史意义的特征仍能被辨认，评价时也要考虑变化及其影响"
+              },
+              {
+                "id": "C",
+                "text": "现存自然与建造要素仍保持最初形态，使用方式可随时代调整"
+              },
+              {
+                "id": "D",
+                "text": "乡土景观在持续改变的过程中，逐步形成不同于历史的整体面貌"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "完整性联系历史意义及特征留存程度，动态生长和使用变化并不直接等同于完整性消失，也不等于变化越大越完整。\n\n【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 1,
+                  "quote": "其完整性取决于体现历史意义的特征保留到了什么程度"
+                },
+                {
+                  "paragraph": 1,
+                  "quote": "还要看历史时期的总体面貌能否辨认"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "附加要求：存在多个重要时期，不表示各时期要素需要同样可见。",
+                  "errorType": "附加要求"
+                },
+                "B": {
+                  "text": "正确：抓住历史特征可辨认及变化影响这一评价关系。"
+                },
+                "C": {
+                  "text": "条件过强：植被会生长，原物形态不变并非文中完整性的定义条件。",
+                  "errorType": "条件过强"
+                },
+                "D": {
+                  "text": "概念偏移：某些乡土景观的变化具有历史意义，不能据此把完整性定义为形成不同于历史的面貌。",
+                  "errorType": "概念偏移"
+                }
+              }
+            }
+          },
+          {
+            "id": "q2",
+            "passageId": "p1",
+            "kind": "信息缺失辨认",
+            "stem": "关于调查清单与文化景观报告，文中没有说明的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "调查清单除记录历史变化外，是否也评价景观的当前状况"
+              },
+              {
+                "id": "B",
+                "text": "文化景观报告的调查评价与处理建议，能否分开编制"
+              },
+              {
+                "id": "C",
+                "text": "拟增设游客设施时，文化景观报告可为方案提供何种帮助"
+              },
+              {
+                "id": "D",
+                "text": "调查清单的定期更新，通常以多少年作为固定的间隔"
+              }
+            ],
+            "answer": "D",
+            "explanation": {
+              "summary": "文章说明了清单记录与评价、报告结构和用途，但只说清单定期更新，没有给出固定年数。这里区分未提供信息与事实错误。\n\n【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "它既提供景观变化的时间线，也评价当下状态"
+                },
+                {
+                  "paragraph": 2,
+                  "quote": "随着现状改变，清单会定期更新"
+                },
+                {
+                  "paragraph": 3,
+                  "quote": "两者可以合为一份文件，也可以分开编制"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "已有说明：第二段明确写到评价当下状态，因此不是缺失信息。",
+                  "errorType": "已有说明"
+                },
+                "B": {
+                  "text": "已有说明：第三段说明两部分可以分开编制。",
+                  "errorType": "已有说明"
+                },
+                "C": {
+                  "text": "已有说明：第三段指出报告帮助避免关键历史特征损失并设计相容方案。",
+                  "errorType": "已有说明"
+                },
+                "D": {
+                  "text": "正确：文中未提供固定更新年数，不能从定期二字补出具体间隔。"
+                }
+              }
+            }
+          },
+          {
+            "id": "q3",
+            "passageId": "p1",
+            "kind": "分类边界",
+            "stem": "第五段同时提到“恢复”和“重建”。下列对二者的区分最恰当的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "恢复围绕特定时期调整景观现状，重建着眼于再现已经消失的景观或组成部分"
+              },
+              {
+                "id": "B",
+                "text": "恢复处理后来增添的要素，补回特定时期缺失要素则属于重建"
+              },
+              {
+                "id": "C",
+                "text": "恢复依据实物证据还原景观，重建则依据文献证据设计具有历史感的新景观"
+              },
+              {
+                "id": "D",
+                "text": "恢复呈现某个时期的历史形态，重建通过汇集多个时期的要素呈现发展过程"
+              }
+            ],
+            "answer": "A",
+            "explanation": {
+              "summary": "是否针对已消失的景观或组成部分，是文中区分重建的重要线索。恢复也可能补缺，不能把补回要素本身当成二者的分界。\n\n【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 5,
+                  "quote": "恢复着眼于呈现景观某一特定时期的形态和特征"
+                },
+                {
+                  "paragraph": 5,
+                  "quote": "重建则针对已经消失的景观或其组成部分"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "正确：同时说明恢复的时期取向和重建的对象条件，未将补缺专属于重建。"
+                },
+                "B": {
+                  "text": "范围压缩：恢复不仅移除后期要素，也可能补缺；用移除与补回划界不成立。",
+                  "errorType": "范围压缩"
+                },
+                "C": {
+                  "text": "依据割裂：材料未将证据类型这样分配，重建也可据考古或实物证据，且不是笼统营造历史感。",
+                  "errorType": "依据割裂"
+                },
+                "D": {
+                  "text": "方式误读：重建不得把历史上未共存的要素拼合，文中并未以多个时期的汇集定义它。",
+                  "errorType": "方式误读"
+                }
+              }
+            }
+          },
+          {
+            "id": "q4",
+            "passageId": "p1",
+            "kind": "跨段方案判断",
+            "stem": "某历史农庄拟新增停车设施，工作人员已完成清单记录。依据第二至四段，下一步最合适的是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "依据清单列出的贡献要素逐项确定改造方式，将新增设施纳入日常维护"
+              },
+              {
+                "id": "B",
+                "text": "优先让停车设施采用历史材料，待施工后再根据使用效果补写报告"
+              },
+              {
+                "id": "C",
+                "text": "结合历史与现状分析形成处理建议，评估选址对关键特征及空间关系的影响"
+              },
+              {
+                "id": "D",
+                "text": "先确定停车功能与容量，再将报告重点放在如何向游客解释新设施"
+              }
+            ],
+            "answer": "C",
+            "explanation": {
+              "summary": "清单提供基础记录，超出维护的设施建设需要报告中的研究与处理建议；新用途还应兼顾历史特征和空间关系。题干为应用情境，不是真实项目。\n\n【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 2,
+                  "quote": "却主要承担基础记录的任务"
+                },
+                {
+                  "paragraph": 3,
+                  "quote": "文化景观报告在历史与现状分析、评价的基础上提出处理建议"
+                },
+                {
+                  "paragraph": 4,
+                  "quote": "新增部分也需要与原有材料、尺度和空间关系相容"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "文档职责错置：清单的记录不自动对应改造方式，新增停车设施也超出材料所述日常维护。",
+                  "errorType": "文档职责错置"
+                },
+                "B": {
+                  "text": "阶段错置：以历史材料为先不能替代研究，指导未来干预的报告不宜变成施工后的效果补记。",
+                  "errorType": "阶段错置"
+                },
+                "C": {
+                  "text": "正确：将基础记录、干预建议与历史空间特征的相容性联系起来。"
+                },
+                "D": {
+                  "text": "任务窄化：报告还要指导方案避免特征损失，并非功能先定后仅负责解说。",
+                  "errorType": "任务窄化"
+                }
+              }
+            }
+          },
+          {
+            "id": "q5",
+            "passageId": "p1",
+            "kind": "论证关系",
+            "stem": "第六段在提出新旧可辨之后，紧接着说明新设施“不要求在视觉上突兀”，其作用主要是：",
+            "options": [
+              {
+                "id": "A",
+                "text": "说明记录工作的重心应由材料年代识别转向设施的视觉设计"
+              },
+              {
+                "id": "B",
+                "text": "澄清辨识后期工作的要求，并不排斥新设施与历史环境相协调"
+              },
+              {
+                "id": "C",
+                "text": "限定文档记录的适用对象，使其主要用于难以做标记的新材料"
+              },
+              {
+                "id": "D",
+                "text": "补充新设施的另一种保护作用，即以显著差异突出历史遗存"
+              }
+            ],
+            "answer": "B",
+            "explanation": {
+              "summary": "后一句针对对新旧可辨的可能误解作限制：用标记或文档使后人辨识来历，不意味着制造突兀的视觉差异，仍需减少对景观的影响。\n\n【来源与改编】美国国家公园管理局NPS《Research》 https://www.nps.gov/subjects/culturallandscapes/research.htm（访问日期：2026-11-14）。第一段翻译概括历史意义、动态景观与完整性评价。；美国国家公园管理局NPS《Landscape Report Types》 https://www.nps.gov/subjects/culturallandscapes/cl_documentation_types.htm（访问日期：2026-11-14）。第二、三段概括调查清单与景观报告职责及编制结构。；美国国家公园管理局NPS《Stewardship》 https://www.nps.gov/subjects/culturallandscapes/stewardship.htm（访问日期：2026-11-14）。第四至六段概括四种处理方式及记录要求，不作为具体项目的法律或工程意见。；美国国家公园管理局NPS《Rehabilitation as a Treatment and Standards for Rehabilitation》 https://www.nps.gov/articles/000/treatment-standards-rehabilitation.htm（访问日期：2026-11-14）。补充核对第四段新用途、新旧可辨与空间关系相容原则，已读正文，不移用建筑专属细则。；美国国家公园管理局NPS《Reconstruction as a Treatment and Standards for Reconstruction》 https://www.nps.gov/articles/000/treatment-standards-reconstruction.htm（访问日期：2026-11-14）。补充核对第五段消失对象、有据再现及当代标识原则，已读正文，未引用建筑内部复原等细则。材料经过翻译改写；设问、选项及解析由 Codex 编写，来源机构不为练习背书。",
+              "evidence": [
+                {
+                  "paragraph": 6,
+                  "quote": "可以用不显眼的标记或文档加以辨识"
+                },
+                {
+                  "paragraph": 6,
+                  "quote": "这种辨识并不要求新设施在视觉上突兀"
+                }
+              ],
+              "options": {
+                "A": {
+                  "text": "关系误读：是兼顾辨识与相容，不是把记录重心转走。",
+                  "errorType": "关系误读"
+                },
+                "B": {
+                  "text": "正确：解释两项要求可并行，避免把可辨识误读为视觉突兀。"
+                },
+                "C": {
+                  "text": "无据限定：原文没有把文档限定为难以做标记时才主要使用。",
+                  "errorType": "无据限定"
+                },
+                "D": {
+                  "text": "方向相反：下文要求尽量减小影响，并未倡导用显著差异突出遗存。",
+                  "errorType": "方向相反"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
